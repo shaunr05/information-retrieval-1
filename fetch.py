@@ -1,6 +1,12 @@
+import os
+
 import click
 import serpapi
 import json
+
+from fetchAPI import get_search_results
+from textUtils import normalize_text
+
 
 @click.group()
 @click.pass_context
@@ -10,20 +16,25 @@ def fetch(ctx: click.Context):
 fetch: click.Group
 
 @fetch.command()
+@click.argument('author')
 @click.pass_context
-def search(ctx: click.Context):
+def search(ctx: click.Context, author: str):
 
     client: serpapi.Client = ctx.obj['client']
 
-    results = client.search({
-        'engine': 'google_scholar',
-        'q': 'coffee',
-        'json_restrictor': 'organic_results[].{position, title, link, snippet, publication_info.authors[].{name, link}}'
-    })
+    results = get_search_results(client, author)
 
-    results = dict(results)
+    #deduplication
+    seen = {}
 
-    with open('tester.json', 'w') as f:
-        json.dump(results, f, indent=4)
+    for article in results.get('organic_results', []):
+        title = article.get('title', '')
+        norm_title = normalize_text(title)
+        if norm_title not in seen:
+            seen[norm_title] = article
+
+    deduplicated_papers = list(seen.values())
 
     click.echo("Saved to file!")
+
+
