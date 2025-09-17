@@ -1,0 +1,514 @@
+[
+    {
+        "position": 1,
+        "title": "Spatial pyramid pooling in deep convolutional networks for visual recognition",
+        "snippet": "\u2026 The implementation of R-CNN is from the code published by the authors implemented in Caffe [35]. We also implement our feature computation in Caffe. In Table 10 we evaluate the \u2026",
+        "publication_info": {
+            "summary": "K He, X Zhang, S Ren, J Sun - IEEE transactions on pattern \u2026, 2015 - ieeexplore.ieee.org",
+            "authors": [
+                {
+                    "name": "K He",
+                    "link": "https://scholar.google.com/citations?user=DhtAFkwAAAAJ&hl=en&num=20&oi=sra"
+                },
+                {
+                    "name": "X Zhang",
+                    "link": "https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=en&num=20&oi=sra"
+                },
+                {
+                    "name": "S Ren",
+                    "link": "https://scholar.google.com/citations?user=AUhj438AAAAJ&hl=en&num=20&oi=sra"
+                },
+                {
+                    "name": "J Sun",
+                    "link": "https://scholar.google.com/citations?user=ALVSZAYAAAAJ&hl=en&num=20&oi=sra"
+                }
+            ]
+        },
+        "inline_links": {
+            "cited_by": {
+                "total": 18353
+            }
+        }
+    },
+    {
+        "position": 2,
+        "title": "Image completion approaches using the statistics of similar patches",
+        "snippet": "Image completion involves filling missing parts in images. In this paper we address this problem through novel statistics of similar patches. We observe that if we match similar patches \u2026",
+        "publication_info": {
+            "summary": "K He, J Sun - IEEE transactions on pattern analysis and \u2026, 2014 - ieeexplore.ieee.org",
+            "authors": [
+                {
+                    "name": "K He",
+                    "link": "https://scholar.google.com/citations?user=DhtAFkwAAAAJ&hl=en&num=20&oi=sra"
+                },
+                {
+                    "name": "J Sun",
+                    "link": "https://scholar.google.com/citations?user=ALVSZAYAAAAJ&hl=en&num=20&oi=sra"
+                }
+            ]
+        },
+        "inline_links": {
+            "cited_by": {
+                "total": 206
+            }
+        }
+    },
+    {
+        "position": 3,
+        "title": "Identity mappings in deep residual networks",
+        "snippet": "\u2026 These keywords were added by machine and not by the authors. This process is experimental and the keywords may be updated as the learning algorithm \u2026 Search by keyword or author \u2026",
+        "publication_info": {
+            "summary": "K He, X Zhang, S Ren, J Sun - European conference on computer vision, 2016 - Springer",
+            "authors": [
+                {
+                    "name": "K He",
+                    "link": "https://scholar.google.com/citations?user=DhtAFkwAAAAJ&hl=en&num=20&oi=sra"
+                },
+                {
+                    "name": "X Zhang",
+                    "link": "https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=en&num=20&oi=sra"
+                },
+                {
+                    "name": "S Ren",
+                    "link": "https://scholar.google.com/citations?user=AUhj438AAAAJ&hl=en&num=20&oi=sra"
+                },
+                {
+                    "name": "J Sun",
+                    "link": "https://scholar.google.com/citations?user=ALVSZAYAAAAJ&hl=en&num=20&oi=sra"
+                }
+            ]
+        },
+        "inline_links": {
+            "cited_by": {
+                "total": 14280
+            }
+        }
+    },
+    {
+        "position": 4,
+        "title": "Rectangling panoramic images via warping",
+        "snippet": "\u2026 The authors would like to thank Jiangyu Liu for making the video, Fang Wen for fruitful discussions, the volunteers for participating in the user study, and all anonymous reviewers for \u2026",
+        "publication_info": {
+            "summary": "K He, H Chang, J Sun - ACM Transactions on Graphics (TOG), 2013 - dl.acm.org",
+            "authors": [
+                {
+                    "name": "K He",
+                    "link": "https://scholar.google.com/citations?user=DhtAFkwAAAAJ&hl=en&num=20&oi=sra"
+                },
+                {
+                    "name": "H Chang",
+                    "link": "https://scholar.google.com/citations?user=eZQNcvcAAAAJ&hl=en&num=20&oi=sra"
+                },
+                {
+                    "name": "J Sun",
+                    "link": "https://scholar.google.com/citations?user=ALVSZAYAAAAJ&hl=en&num=20&oi=sra"
+                }
+            ]
+        },
+        "inline_links": {
+            "cited_by": {
+                "total": 126
+            }
+        }
+    },
+    {
+        "position": 5,
+        "title": "Statistics of patch offsets for image completion",
+        "snippet": "Image completion involves filling missing parts in images. In this paper we address this problem through the statistics of patch offsets. We observe that if we match similar patches in the \u2026",
+        "publication_info": {
+            "summary": "K He, J Sun - European conference on computer vision, 2012 - Springer",
+            "authors": [
+                {
+                    "name": "K He",
+                    "link": "https://scholar.google.com/citations?user=DhtAFkwAAAAJ&hl=en&num=20&oi=sra"
+                },
+                {
+                    "name": "J Sun",
+                    "link": "https://scholar.google.com/citations?user=ALVSZAYAAAAJ&hl=en&num=20&oi=sra"
+                }
+            ]
+        },
+        "inline_links": {
+            "cited_by": {
+                "total": 267
+            }
+        }
+    },
+    {
+        "position": 6,
+        "title": "Guided image filtering",
+        "snippet": "In this paper, we propose a novel explicit image filter called guided filter. Derived from a local linear model, the guided filter computes the filtering output by considering the content of a \u2026",
+        "publication_info": {
+            "summary": "K He, J Sun, X Tang - IEEE transactions on pattern analysis \u2026, 2012 - ieeexplore.ieee.org",
+            "authors": [
+                {
+                    "name": "K He",
+                    "link": "https://scholar.google.com/citations?user=DhtAFkwAAAAJ&hl=en&num=20&oi=sra"
+                },
+                {
+                    "name": "J Sun",
+                    "link": "https://scholar.google.com/citations?user=ALVSZAYAAAAJ&hl=en&num=20&oi=sra"
+                },
+                {
+                    "name": "X Tang",
+                    "link": "https://scholar.google.com/citations?user=qpBtpGsAAAAJ&hl=en&num=20&oi=sra"
+                }
+            ]
+        },
+        "inline_links": {
+            "cited_by": {
+                "total": 8887
+            }
+        }
+    },
+    {
+        "position": 7,
+        "title": "Computing nearest-neighbor fields via propagation-assisted kd-trees",
+        "snippet": "\u2026 The PM and CSH codes are from the authors\u2019 websites [25, 9], both essentially in C++. All algorithms are run on a PC with an Intel Core i7 3.0GHz CPU and 8GB RAM. Here we com\u2026",
+        "publication_info": {
+            "summary": "K He, J Sun - 2012 IEEE Conference on Computer Vision and \u2026, 2012 - ieeexplore.ieee.org",
+            "authors": [
+                {
+                    "name": "K He",
+                    "link": "https://scholar.google.com/citations?user=DhtAFkwAAAAJ&hl=en&num=20&oi=sra"
+                },
+                {
+                    "name": "J Sun",
+                    "link": "https://scholar.google.com/citations?user=ALVSZAYAAAAJ&hl=en&num=20&oi=sra"
+                }
+            ]
+        },
+        "inline_links": {
+            "cited_by": {
+                "total": 186
+            }
+        }
+    },
+    {
+        "position": 8,
+        "title": "Research landscape and trends of human umbilical cord mesenchymal stem cell-derived exosomes",
+        "snippet": "\u2026 Analysis of author productivity revealed that eight of the top 10 most prolific researchers \u2026 The data that support the findings of this study are available from the corresponding author \u2026",
+        "publication_info": {
+            "summary": "D Chen, Z Chen, J Yuan, G Chen, Y Chen, K He\u2026 - Stem cell research & \u2026, 2025 - Springer"
+        },
+        "inline_links": {
+            "cited_by": {
+                "total": 2
+            }
+        }
+    },
+    {
+        "position": 9,
+        "title": "Instance-sensitive fully convolutional networks",
+        "snippet": "\u2026 These keywords were added by machine and not by the authors. This process is experimental \u2026 the publicly available code, and the results of MNC [20] is provided by the authors of [20]. \u2026",
+        "publication_info": {
+            "summary": "J Dai, K He, Y Li, S Ren, J Sun - European conference on computer vision, 2016 - Springer",
+            "authors": [
+                {
+                    "name": "J Dai",
+                    "link": "https://scholar.google.com/citations?user=SH_-B_AAAAAJ&hl=en&num=20&oi=sra"
+                },
+                {
+                    "name": "K He",
+                    "link": "https://scholar.google.com/citations?user=DhtAFkwAAAAJ&hl=en&num=20&oi=sra"
+                },
+                {
+                    "name": "Y Li",
+                    "link": "https://scholar.google.com/citations?user=MW36lZUAAAAJ&hl=en&num=20&oi=sra"
+                },
+                {
+                    "name": "S Ren",
+                    "link": "https://scholar.google.com/citations?user=AUhj438AAAAJ&hl=en&num=20&oi=sra"
+                },
+                {
+                    "name": "J Sun",
+                    "link": "https://scholar.google.com/citations?user=ALVSZAYAAAAJ&hl=en&num=20&oi=sra"
+                }
+            ]
+        },
+        "inline_links": {
+            "cited_by": {
+                "total": 553
+            }
+        }
+    },
+    {
+        "position": 10,
+        "title": "Convolutional neural networks at constrained time cost",
+        "snippet": "\u2026 In this paper, we adopt the same data augmentation as Chatfield et al.\u2019s paper [1] and He et al.\u2019s \u2026 The 10-view results of VGG-16 is computed using the model released by the authors. \u2026",
+        "publication_info": {
+            "summary": "K He, J Sun - Proceedings of the IEEE conference on computer \u2026, 2015 - cv-foundation.org",
+            "authors": [
+                {
+                    "name": "K He",
+                    "link": "https://scholar.google.com/citations?user=DhtAFkwAAAAJ&hl=en&num=20&oi=sra"
+                },
+                {
+                    "name": "J Sun",
+                    "link": "https://scholar.google.com/citations?user=ALVSZAYAAAAJ&hl=en&num=20&oi=sra"
+                }
+            ]
+        },
+        "inline_links": {
+            "cited_by": {
+                "total": 3247
+            }
+        }
+    },
+    {
+        "position": 11,
+        "title": "Is faster R-CNN doing well for pedestrian detection?",
+        "snippet": "Detecting pedestrian has been arguably addressed as a special topic beyond general object detection. Although recent deep learning object detectors such as Fast/Faster R-CNN have \u2026",
+        "publication_info": {
+            "summary": "L Zhang, L Lin, X Liang, K He - European conference on computer vision, 2016 - Springer",
+            "authors": [
+                {
+                    "name": "L Zhang",
+                    "link": "https://scholar.google.com/citations?user=iO6xAdgAAAAJ&hl=en&num=20&oi=sra"
+                },
+                {
+                    "name": "L Lin",
+                    "link": "https://scholar.google.com/citations?user=Nav8m8gAAAAJ&hl=en&num=20&oi=sra"
+                },
+                {
+                    "name": "X Liang",
+                    "link": "https://scholar.google.com/citations?user=voxznZAAAAAJ&hl=en&num=20&oi=sra"
+                },
+                {
+                    "name": "K He",
+                    "link": "https://scholar.google.com/citations?user=DhtAFkwAAAAJ&hl=en&num=20&oi=sra"
+                }
+            ]
+        },
+        "inline_links": {
+            "cited_by": {
+                "total": 1109
+            }
+        }
+    },
+    {
+        "position": 12,
+        "title": "Exploring plain vision transformer backbones for object detection",
+        "snippet": "We explore the plain, non-hierarchical Vision Transformer (ViT) as a backbone network for object detection. This design enables the original ViT architecture to be fine-tuned for object \u2026",
+        "publication_info": {
+            "summary": "Y Li, H Mao, R Girshick, K He - European conference on computer vision, 2022 - Springer",
+            "authors": [
+                {
+                    "name": "Y Li",
+                    "link": "https://scholar.google.com/citations?user=-VgS8AIAAAAJ&hl=en&num=20&oi=sra"
+                },
+                {
+                    "name": "H Mao",
+                    "link": "https://scholar.google.com/citations?user=fHfJh9cAAAAJ&hl=en&num=20&oi=sra"
+                },
+                {
+                    "name": "R Girshick",
+                    "link": "https://scholar.google.com/citations?user=W8VIEZgAAAAJ&hl=en&num=20&oi=sra"
+                },
+                {
+                    "name": "K He",
+                    "link": "https://scholar.google.com/citations?user=DhtAFkwAAAAJ&hl=en&num=20&oi=sra"
+                }
+            ]
+        },
+        "inline_links": {
+            "cited_by": {
+                "total": 1217
+            }
+        }
+    },
+    {
+        "position": 13,
+        "title": "Octanoic acid\u2013rich enteral nutrition prevented lipopolysaccharide\u2010induced acute liver injury through c\u2010Jun N\u2010terminal kinase\u2013dependent autophagy",
+        "snippet": "\u2026 AUTHOR CONTRIBUTIONS Kaiming He and Chun Cao equally contributed to the conception and design of the research; Peng Du and Wei Chen contributed to the design of the \u2026",
+        "publication_info": {
+            "summary": "K He, C Cao, X Xu, Z Ye, X Ma\u2026 - Journal of Parenteral \u2026, 2022 - Wiley Online Library"
+        },
+        "inline_links": {
+            "cited_by": {
+                "total": 13
+            }
+        }
+    },
+    {
+        "position": 14,
+        "title": "A global sampling method for alpha matting",
+        "snippet": "Alpha matting refers to the problem of softly extracting the foreground from an image. Given a trimap (specifying known foreground/background and unknown pixels), a straightforward \u2026",
+        "publication_info": {
+            "summary": "K He, C Rhemann, C Rother, X Tang, J Sun - CVPR 2011, 2011 - ieeexplore.ieee.org",
+            "authors": [
+                {
+                    "name": "K He",
+                    "link": "https://scholar.google.com/citations?user=DhtAFkwAAAAJ&hl=en&num=20&oi=sra"
+                },
+                {
+                    "name": "C Rhemann",
+                    "link": "https://scholar.google.com/citations?user=5D0_pjcAAAAJ&hl=en&num=20&oi=sra"
+                },
+                {
+                    "name": "C Rother",
+                    "link": "https://scholar.google.com/citations?user=N_YNMIMAAAAJ&hl=en&num=20&oi=sra"
+                },
+                {
+                    "name": "X Tang",
+                    "link": "https://scholar.google.com/citations?user=qpBtpGsAAAAJ&hl=en&num=20&oi=sra"
+                },
+                {
+                    "name": "J Sun",
+                    "link": "https://scholar.google.com/citations?user=ALVSZAYAAAAJ&hl=en&num=20&oi=sra"
+                }
+            ]
+        },
+        "inline_links": {
+            "cited_by": {
+                "total": 432
+            }
+        }
+    },
+    {
+        "position": 15,
+        "title": "Polyimide@ ketjenblack composite: a porous organic cathode for fast rechargeable potassium\u2010ion batteries",
+        "snippet": "\u2026 Search for more papers by this author Kaiming He\u2026 The authors thank Dr. J\u00f6rg Pezoldt for the help with FTIR measurement. Open access funding enabled and organized by Projekt DEAL\u2026",
+        "publication_info": {
+            "summary": "C Zhang, Y Xu, K He, Y Dong, H Zhao, L Medenbach\u2026 - Small, 2020 - Wiley Online Library",
+            "authors": [
+                {
+                    "name": "C Zhang",
+                    "link": "https://scholar.google.com/citations?user=HDFfNjEAAAAJ&hl=en&num=20&oi=sra"
+                },
+                {
+                    "name": "Y Xu",
+                    "link": "https://scholar.google.com/citations?user=0rjWUboAAAAJ&hl=en&num=20&oi=sra"
+                },
+                {
+                    "name": "Y Dong",
+                    "link": "https://scholar.google.com/citations?user=M_z1zCIAAAAJ&hl=en&num=20&oi=sra"
+                },
+                {
+                    "name": "H Zhao",
+                    "link": "https://scholar.google.com/citations?user=3RL248MAAAAJ&hl=en&num=20&oi=sra"
+                }
+            ]
+        },
+        "inline_links": {
+            "cited_by": {
+                "total": 63
+            }
+        }
+    },
+    {
+        "position": 16,
+        "title": "Accelerating very deep convolutional networks for classification and detection",
+        "snippet": "This paper aims to accelerate the test-time computation of convolutional neural networks (CNNs), especially very deep CNNs [1] that have substantially impacted the computer vision \u2026",
+        "publication_info": {
+            "summary": "X Zhang, J Zou, K He, J Sun - IEEE transactions on pattern \u2026, 2015 - ieeexplore.ieee.org",
+            "authors": [
+                {
+                    "name": "X Zhang",
+                    "link": "https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=en&num=20&oi=sra"
+                },
+                {
+                    "name": "K He",
+                    "link": "https://scholar.google.com/citations?user=DhtAFkwAAAAJ&hl=en&num=20&oi=sra"
+                },
+                {
+                    "name": "J Sun",
+                    "link": "https://scholar.google.com/citations?user=ALVSZAYAAAAJ&hl=en&num=20&oi=sra"
+                }
+            ]
+        },
+        "inline_links": {
+            "cited_by": {
+                "total": 1114
+            }
+        }
+    },
+    {
+        "position": 17,
+        "title": "Exploring randomly wired neural networks for image recognition",
+        "snippet": "\u2026 To minimize the human bias from us\u2014the authors of this paper\u2014on the prior, we will use three classical random graph models in our study ([7, 1, 51]; \u00a73.3). Our methodology for \u2026",
+        "publication_info": {
+            "summary": "\u2026, A Kirillov, R Girshick, K He - Proceedings of the IEEE \u2026, 2019 - openaccess.thecvf.com",
+            "authors": [
+                {
+                    "name": "A Kirillov",
+                    "link": "https://scholar.google.com/citations?user=bHn29ScAAAAJ&hl=en&num=20&oi=sra"
+                },
+                {
+                    "name": "R Girshick",
+                    "link": "https://scholar.google.com/citations?user=W8VIEZgAAAAJ&hl=en&num=20&oi=sra"
+                },
+                {
+                    "name": "K He",
+                    "link": "https://scholar.google.com/citations?user=DhtAFkwAAAAJ&hl=en&num=20&oi=sra"
+                }
+            ]
+        },
+        "inline_links": {
+            "cited_by": {
+                "total": 486
+            }
+        }
+    },
+    {
+        "position": 18,
+        "title": "Phytofabrication of nanoparticles as novel drugs for anticancer applications",
+        "snippet": "Cancer is one of the foremost causes of death globally and also the major stumbling block of increasing life expectancy. Although the primary treatment of surgical resection, \u2026",
+        "publication_info": {
+            "summary": "QY Wei, KM He, JL Chen, YM Xu, ATY Lau - Molecules, 2019 - mdpi.com"
+        },
+        "inline_links": {
+            "cited_by": {
+                "total": 65
+            }
+        }
+    },
+    {
+        "position": 19,
+        "title": "Expert consensus on tubeless video-assisted thoracoscopic surgery (Guangzhou)",
+        "snippet": "\u2026 Ethical Statement: The authors are accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately \u2026",
+        "publication_info": {
+            "summary": "J He, J Liu, C Zhu, T Dai, K Cai, Z Zhang\u2026 - Journal of Thoracic \u2026, 2019 - pmc.ncbi.nlm.nih.gov"
+        },
+        "inline_links": {
+            "cited_by": {
+                "total": 40
+            }
+        }
+    },
+    {
+        "position": 20,
+        "title": "Are labels necessary for neural architecture search?",
+        "snippet": "Existing neural network architectures in computer vision\u2014whether designed by humans or by machines\u2014were typically found using both images and their associated labels. In this \u2026",
+        "publication_info": {
+            "summary": "C Liu, P Doll\u00e1r, K He, R Girshick, A Yuille\u2026 - European Conference on \u2026, 2020 - Springer",
+            "authors": [
+                {
+                    "name": "C Liu",
+                    "link": "https://scholar.google.com/citations?user=qvRsU00AAAAJ&hl=en&num=20&oi=sra"
+                },
+                {
+                    "name": "P Doll\u00e1r",
+                    "link": "https://scholar.google.com/citations?user=a8Y2OJMAAAAJ&hl=en&num=20&oi=sra"
+                },
+                {
+                    "name": "K He",
+                    "link": "https://scholar.google.com/citations?user=DhtAFkwAAAAJ&hl=en&num=20&oi=sra"
+                },
+                {
+                    "name": "R Girshick",
+                    "link": "https://scholar.google.com/citations?user=W8VIEZgAAAAJ&hl=en&num=20&oi=sra"
+                },
+                {
+                    "name": "A Yuille",
+                    "link": "https://scholar.google.com/citations?user=FJ-huxgAAAAJ&hl=en&num=20&oi=sra"
+                }
+            ]
+        },
+        "inline_links": {
+            "cited_by": {
+                "total": 103
+            }
+        }
+    }
+]

@@ -13,7 +13,8 @@ def cli(ctx: click.Context):
 
     ctx.ensure_object(dict)
     ctx.obj = {
-        'client': client
+        'client': client,
+        'filename': 'jsonDocs/tester.json'
     }
 
 cli.add_command(fetch.fetch)

@@ -1,6 +1,4 @@
 import serpapi
-import json
-
 
 def get_search_results(client: serpapi.Client, author: str) -> dict:
     params = {
@@ -11,10 +9,9 @@ def get_search_results(client: serpapi.Client, author: str) -> dict:
     }
 
     results = client.search(params)
-
     results = results.as_dict()
-
-    with open('tester.json', 'w') as f:
-        json.dump(results, f, indent=4)
-
     return results
+
+
+
+

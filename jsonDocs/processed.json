@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "title": "Spatial pyramid pooling in deep convolutional networks for visual recognition",
+        "authors": [
+            {
+                "name": "K He",
+                "link": "https://scholar.google.com/citations?user=DhtAFkwAAAAJ&hl=en&num=20&oi=sra"
+            },
+            {
+                "name": "X Zhang",
+                "link": "https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=en&num=20&oi=sra"
+            },
+            {
+                "name": "S Ren",
+                "link": "https://scholar.google.com/citations?user=AUhj438AAAAJ&hl=en&num=20&oi=sra"
+            },
+            {
+                "name": "J Sun",
+                "link": "https://scholar.google.com/citations?user=ALVSZAYAAAAJ&hl=en&num=20&oi=sra"
+            }
+        ],
+        "year": 1,
+        "citations": 18353,
+        "terms": [
+            "code",
+            "caffe",
+            "implementation",
+            "recognition",
+            "spatial",
+            "pyramid",
+            "computation",
+            "convolutional",
+            "publish",
+            "feature",
+            "evaluate",
+            "pool",
+            "deep",
+            "implement",
+            "cnn",
+            "network",
+            "table",
+            "r",
+            "visual",
+            "author"
+        ]
+    }
+]

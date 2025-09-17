@@ -1,11 +1,8 @@
-import os
-
 import click
-import serpapi
-import json
 
-from fetchAPI import get_search_results
-from textUtils import normalize_text
+from fetchAPI import *
+from utils.fileUtils import write_to_json
+from processor import *
 
 
 @click.group()
@@ -23,18 +20,15 @@ def search(ctx: click.Context, author: str):
     client: serpapi.Client = ctx.obj['client']
 
     results = get_search_results(client, author)
+    write_to_json(results, ctx.obj['filename'])
 
-    #deduplication
-    seen = {}
+    deduped_results = deduplicate(results)
+    write_to_json(deduped_results, 'jsonDocs/dedup.json')
 
-    for article in results.get('organic_results', []):
-        title = article.get('title', '')
-        norm_title = normalize_text(title)
-        if norm_title not in seen:
-            seen[norm_title] = article
+    processed_docs = preprocess(deduped_results)
+    write_to_json(processed_docs, 'jsonDocs/processed.json')
 
-    deduplicated_papers = list(seen.values())
-
+    click.echo("processing done!")
     click.echo("Saved to file!")
 
 
