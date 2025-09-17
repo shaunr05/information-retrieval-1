@@ -1,3 +1,6 @@
 Title,Authors,Year,Citations
-Deep Learning for NLP,Author A,2018,150
-Total citations; 150
+Convolutional neural networks at constrained time cost,"[{'name': 'K He', 'author_id': 'DhtAFkwAAAAJ'}, {'name': 'J Sun', 'author_id': 'ALVSZAYAAAAJ'}]",2015,3247
+Accelerating very deep convolutional networks for classification and detection,"[{'name': 'X Zhang', 'author_id': 'yuB-cfoAAAAJ'}, {'name': 'K He', 'author_id': 'DhtAFkwAAAAJ'}, {'name': 'J Sun', 'author_id': 'ALVSZAYAAAAJ'}]",2015,1114
+Exploring randomly wired neural networks for image recognition,"[{'name': 'A Kirillov', 'author_id': 'bHn29ScAAAAJ'}, {'name': 'R Girshick', 'author_id': 'W8VIEZgAAAAJ'}, {'name': 'K He', 'author_id': 'DhtAFkwAAAAJ'}]",2019,486
+Are labels necessary for neural architecture search?,"[{'name': 'C Liu', 'author_id': 'qvRsU00AAAAJ'}, {'name': 'P Dollár', 'author_id': 'a8Y2OJMAAAAJ'}, {'name': 'K He', 'author_id': 'DhtAFkwAAAAJ'}, {'name': 'R Girshick', 'author_id': 'W8VIEZgAAAAJ'}, {'name': 'A Yuille', 'author_id': 'FJ-huxgAAAAJ'}]",2020,103
+Total citations; 4950

@@ -1,8 +1,9 @@
 import click
 
 from fetchAPI import *
+from result import *
 from utils.fileUtils import write_to_json
-from processor import *
+from retrieval.preprocessor import *
 
 
 @click.group()
@@ -14,21 +15,42 @@ fetch: click.Group
 
 @fetch.command()
 @click.argument('author')
+@click.option('-d', '--debug', is_flag=True)
 @click.pass_context
-def search(ctx: click.Context, author: str):
+def search(ctx: click.Context, author: str, debug):
 
     client: serpapi.Client = ctx.obj['client']
 
     results = get_search_results(client, author)
-    write_to_json(results, ctx.obj['filename'])
-
     deduped_results = deduplicate(results)
-    write_to_json(deduped_results, 'jsonDocs/dedup.json')
-
     processed_docs = preprocess(deduped_results)
-    write_to_json(processed_docs, 'jsonDocs/processed.json')
+    ctx.obj['processed_docs'] = processed_docs
 
-    click.echo("processing done!")
-    click.echo("Saved to file!")
+    if debug:
+        write_to_json(results, ctx.obj['filename'])
+        write_to_json(deduped_results, 'jsonDocs/dedup.json')
+        write_to_json(processed_docs, 'jsonDocs/processed.json')
+        click.echo("Saved to file!")
 
 
+    matrix, vocab, term_to_row, doc_to_col = build_incidence_matrix(processed_docs)
+    click.echo("Processing done!")
+
+
+    query = input("Enter query: ")
+    matching = retrieve_docs(query, processed_docs, matrix, term_to_row)
+
+    save_to_csv("results.csv", matching)
+    print(f"Saved {len(matching)} matching docs to results.csv")
+
+
+
+
+
+# @fetch.command()
+# @click.option('--query', prompt='Enter query')
+# @click.pass_context
+# def query(ctx: click.Context, query: str):
+#     ctx.ensure_object(dict)
+#
+#     processed_docs = ctx.obj.get('')
