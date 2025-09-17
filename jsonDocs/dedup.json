@@ -8,19 +8,19 @@
             "authors": [
                 {
                     "name": "K He",
-                    "link": "https://scholar.google.com/citations?user=DhtAFkwAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "DhtAFkwAAAAJ"
                 },
                 {
                     "name": "X Zhang",
-                    "link": "https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "yuB-cfoAAAAJ"
                 },
                 {
                     "name": "S Ren",
-                    "link": "https://scholar.google.com/citations?user=AUhj438AAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "AUhj438AAAAJ"
                 },
                 {
                     "name": "J Sun",
-                    "link": "https://scholar.google.com/citations?user=ALVSZAYAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "ALVSZAYAAAAJ"
                 }
             ]
         },
@@ -39,11 +39,11 @@
             "authors": [
                 {
                     "name": "K He",
-                    "link": "https://scholar.google.com/citations?user=DhtAFkwAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "DhtAFkwAAAAJ"
                 },
                 {
                     "name": "J Sun",
-                    "link": "https://scholar.google.com/citations?user=ALVSZAYAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "ALVSZAYAAAAJ"
                 }
             ]
         },
@@ -62,19 +62,19 @@
             "authors": [
                 {
                     "name": "K He",
-                    "link": "https://scholar.google.com/citations?user=DhtAFkwAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "DhtAFkwAAAAJ"
                 },
                 {
                     "name": "X Zhang",
-                    "link": "https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "yuB-cfoAAAAJ"
                 },
                 {
                     "name": "S Ren",
-                    "link": "https://scholar.google.com/citations?user=AUhj438AAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "AUhj438AAAAJ"
                 },
                 {
                     "name": "J Sun",
-                    "link": "https://scholar.google.com/citations?user=ALVSZAYAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "ALVSZAYAAAAJ"
                 }
             ]
         },
@@ -93,15 +93,15 @@
             "authors": [
                 {
                     "name": "K He",
-                    "link": "https://scholar.google.com/citations?user=DhtAFkwAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "DhtAFkwAAAAJ"
                 },
                 {
                     "name": "H Chang",
-                    "link": "https://scholar.google.com/citations?user=eZQNcvcAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "eZQNcvcAAAAJ"
                 },
                 {
                     "name": "J Sun",
-                    "link": "https://scholar.google.com/citations?user=ALVSZAYAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "ALVSZAYAAAAJ"
                 }
             ]
         },
@@ -120,11 +120,11 @@
             "authors": [
                 {
                     "name": "K He",
-                    "link": "https://scholar.google.com/citations?user=DhtAFkwAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "DhtAFkwAAAAJ"
                 },
                 {
                     "name": "J Sun",
-                    "link": "https://scholar.google.com/citations?user=ALVSZAYAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "ALVSZAYAAAAJ"
                 }
             ]
         },
@@ -143,15 +143,15 @@
             "authors": [
                 {
                     "name": "K He",
-                    "link": "https://scholar.google.com/citations?user=DhtAFkwAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "DhtAFkwAAAAJ"
                 },
                 {
                     "name": "J Sun",
-                    "link": "https://scholar.google.com/citations?user=ALVSZAYAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "ALVSZAYAAAAJ"
                 },
                 {
                     "name": "X Tang",
-                    "link": "https://scholar.google.com/citations?user=qpBtpGsAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "qpBtpGsAAAAJ"
                 }
             ]
         },
@@ -170,11 +170,11 @@
             "authors": [
                 {
                     "name": "K He",
-                    "link": "https://scholar.google.com/citations?user=DhtAFkwAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "DhtAFkwAAAAJ"
                 },
                 {
                     "name": "J Sun",
-                    "link": "https://scholar.google.com/citations?user=ALVSZAYAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "ALVSZAYAAAAJ"
                 }
             ]
         },
@@ -206,23 +206,23 @@
             "authors": [
                 {
                     "name": "J Dai",
-                    "link": "https://scholar.google.com/citations?user=SH_-B_AAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "SH_-B_AAAAAJ"
                 },
                 {
                     "name": "K He",
-                    "link": "https://scholar.google.com/citations?user=DhtAFkwAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "DhtAFkwAAAAJ"
                 },
                 {
                     "name": "Y Li",
-                    "link": "https://scholar.google.com/citations?user=MW36lZUAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "MW36lZUAAAAJ"
                 },
                 {
                     "name": "S Ren",
-                    "link": "https://scholar.google.com/citations?user=AUhj438AAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "AUhj438AAAAJ"
                 },
                 {
                     "name": "J Sun",
-                    "link": "https://scholar.google.com/citations?user=ALVSZAYAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "ALVSZAYAAAAJ"
                 }
             ]
         },
@@ -241,11 +241,11 @@
             "authors": [
                 {
                     "name": "K He",
-                    "link": "https://scholar.google.com/citations?user=DhtAFkwAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "DhtAFkwAAAAJ"
                 },
                 {
                     "name": "J Sun",
-                    "link": "https://scholar.google.com/citations?user=ALVSZAYAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "ALVSZAYAAAAJ"
                 }
             ]
         },
@@ -264,19 +264,19 @@
             "authors": [
                 {
                     "name": "L Zhang",
-                    "link": "https://scholar.google.com/citations?user=iO6xAdgAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "iO6xAdgAAAAJ"
                 },
                 {
                     "name": "L Lin",
-                    "link": "https://scholar.google.com/citations?user=Nav8m8gAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "Nav8m8gAAAAJ"
                 },
                 {
                     "name": "X Liang",
-                    "link": "https://scholar.google.com/citations?user=voxznZAAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "voxznZAAAAAJ"
                 },
                 {
                     "name": "K He",
-                    "link": "https://scholar.google.com/citations?user=DhtAFkwAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "DhtAFkwAAAAJ"
                 }
             ]
         },
@@ -295,19 +295,19 @@
             "authors": [
                 {
                     "name": "Y Li",
-                    "link": "https://scholar.google.com/citations?user=-VgS8AIAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "-VgS8AIAAAAJ"
                 },
                 {
                     "name": "H Mao",
-                    "link": "https://scholar.google.com/citations?user=fHfJh9cAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "fHfJh9cAAAAJ"
                 },
                 {
                     "name": "R Girshick",
-                    "link": "https://scholar.google.com/citations?user=W8VIEZgAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "W8VIEZgAAAAJ"
                 },
                 {
                     "name": "K He",
-                    "link": "https://scholar.google.com/citations?user=DhtAFkwAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "DhtAFkwAAAAJ"
                 }
             ]
         },
@@ -339,23 +339,23 @@
             "authors": [
                 {
                     "name": "K He",
-                    "link": "https://scholar.google.com/citations?user=DhtAFkwAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "DhtAFkwAAAAJ"
                 },
                 {
                     "name": "C Rhemann",
-                    "link": "https://scholar.google.com/citations?user=5D0_pjcAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "5D0_pjcAAAAJ"
                 },
                 {
                     "name": "C Rother",
-                    "link": "https://scholar.google.com/citations?user=N_YNMIMAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "N_YNMIMAAAAJ"
                 },
                 {
                     "name": "X Tang",
-                    "link": "https://scholar.google.com/citations?user=qpBtpGsAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "qpBtpGsAAAAJ"
                 },
                 {
                     "name": "J Sun",
-                    "link": "https://scholar.google.com/citations?user=ALVSZAYAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "ALVSZAYAAAAJ"
                 }
             ]
         },
@@ -374,19 +374,19 @@
             "authors": [
                 {
                     "name": "C Zhang",
-                    "link": "https://scholar.google.com/citations?user=HDFfNjEAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "HDFfNjEAAAAJ"
                 },
                 {
                     "name": "Y Xu",
-                    "link": "https://scholar.google.com/citations?user=0rjWUboAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "0rjWUboAAAAJ"
                 },
                 {
                     "name": "Y Dong",
-                    "link": "https://scholar.google.com/citations?user=M_z1zCIAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "M_z1zCIAAAAJ"
                 },
                 {
                     "name": "H Zhao",
-                    "link": "https://scholar.google.com/citations?user=3RL248MAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "3RL248MAAAAJ"
                 }
             ]
         },
@@ -405,15 +405,15 @@
             "authors": [
                 {
                     "name": "X Zhang",
-                    "link": "https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "yuB-cfoAAAAJ"
                 },
                 {
                     "name": "K He",
-                    "link": "https://scholar.google.com/citations?user=DhtAFkwAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "DhtAFkwAAAAJ"
                 },
                 {
                     "name": "J Sun",
-                    "link": "https://scholar.google.com/citations?user=ALVSZAYAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "ALVSZAYAAAAJ"
                 }
             ]
         },
@@ -432,15 +432,15 @@
             "authors": [
                 {
                     "name": "A Kirillov",
-                    "link": "https://scholar.google.com/citations?user=bHn29ScAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "bHn29ScAAAAJ"
                 },
                 {
                     "name": "R Girshick",
-                    "link": "https://scholar.google.com/citations?user=W8VIEZgAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "W8VIEZgAAAAJ"
                 },
                 {
                     "name": "K He",
-                    "link": "https://scholar.google.com/citations?user=DhtAFkwAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "DhtAFkwAAAAJ"
                 }
             ]
         },
@@ -485,23 +485,23 @@
             "authors": [
                 {
                     "name": "C Liu",
-                    "link": "https://scholar.google.com/citations?user=qvRsU00AAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "qvRsU00AAAAJ"
                 },
                 {
                     "name": "P Doll\u00e1r",
-                    "link": "https://scholar.google.com/citations?user=a8Y2OJMAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "a8Y2OJMAAAAJ"
                 },
                 {
                     "name": "K He",
-                    "link": "https://scholar.google.com/citations?user=DhtAFkwAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "DhtAFkwAAAAJ"
                 },
                 {
                     "name": "R Girshick",
-                    "link": "https://scholar.google.com/citations?user=W8VIEZgAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "W8VIEZgAAAAJ"
                 },
                 {
                     "name": "A Yuille",
-                    "link": "https://scholar.google.com/citations?user=FJ-huxgAAAAJ&hl=en&num=20&oi=sra"
+                    "author_id": "FJ-huxgAAAAJ"
                 }
             ]
         },

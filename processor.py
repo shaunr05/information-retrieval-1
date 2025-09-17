@@ -55,11 +55,30 @@ def preprocess(deduped_results: list) -> list:
         processed_doc = {
             'id': article.get('position'),
             'title': article.get('title'),
-            'authors': article.get('publication_info', {}).get('authors', "Unknown"),
-            'year': 1, #this will come soon,
+            'authors': article.get('publication_info', {}).get('authors', "Unknown"), #TODO: get the proper authors ig
+            'year': get_year(article.get('publication_info', {}).get('summary', ''), article.get('title')),
             'citations': article.get('inline_links', {}).get('cited_by', {}).get('total', 0),
             'terms': set(tokens)
         }
 
         processed_docs.append(processed_doc)
-        return processed_docs
+
+    return processed_docs
+
+
+def get_year(summary: str, title: str) -> int:
+
+    year = extract_year(summary)
+    if year is None:
+        year = extract_year(title)
+
+    return year if year is not None else 2025
+
+
+def extract_year(string: str) -> int | None:
+    years = re.findall(r"\b(19|20)\d{2}\b", string)
+    if not years:
+        return None
+    # re.findall returns only the prefix (19|20), so we need full matches:
+    years = re.findall(r"\b(?:19|20)\d{2}\b", string)
+    return max(map(int, years)) if years else None
