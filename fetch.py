@@ -16,16 +16,14 @@ fetch: click.Group
 @fetch.command()
 @click.argument('author')
 @click.option('-d', '--debug', is_flag=True)
-@click.pass_context
-def search(ctx: click.Context, author: str, debug): #TODO: move the logic to another file
+def search(author: str, debug): #TODO: move the logic to another file
 
     results = get_search_results(author)
     deduped_results = deduplicate(results)
     processed_docs = preprocess(deduped_results)
-    ctx.obj['processed_docs'] = processed_docs
 
     if debug:
-        write_to_json(results, ctx.obj['filename'])
+        write_to_json(results, 'jsonDocs/tester.json')
         write_to_json(deduped_results, 'jsonDocs/dedup.json')
         write_to_json(processed_docs, 'jsonDocs/processed.json')
         click.echo("Saved to file!")

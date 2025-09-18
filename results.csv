@@ -1,5 +1,6 @@
 Title,Authors,Year,Citations
+Convolutional neural networks at constrained time cost,"K He, J Sun",2015,3247
+Accelerating very deep convolutional networks for classification and detection,"X Zhang, K He, J Sun",2015,1114
 Exploring randomly wired neural networks for image recognition,"A Kirillov, R Girshick, K He",2019,486
 Are labels necessary for neural architecture search?,"C Liu, P Dollár, K He, R Girshick, A Yuille",2020,103
-Research landscape and trends of human umbilical cord mesenchymal stem cell-derived exosomes,"D Chen, Z Chen, J Yuan, G Chen, Y Chen, K He…",2025,2
-Total citations; 591
+Total citations; 4950

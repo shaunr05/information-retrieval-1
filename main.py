@@ -3,13 +3,10 @@ import click
 
 
 @click.group()
-@click.pass_context
-def cli(ctx: click.Context):
-    ctx.ensure_object(dict)
-    ctx.obj = {
-        'filename': 'jsonDocs/tester.json'
-    }
+def cli():
+    pass
 
+# lazy add in command group
 cli.add_command(fetch.fetch)
 
 if __name__ == "__main__":
