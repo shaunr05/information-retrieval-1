@@ -5,7 +5,6 @@ import re
 import serpapi
 
 from dotenv import load_dotenv
-from serpapi import HTTPError
 
 _client = None
 
