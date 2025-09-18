@@ -12,7 +12,7 @@ documents. The results are stored in a CSV file. The results are shown to the us
 Before running the project, make sure Python is installed. Install the packages required for this project using:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt 
 ```
 
 also, a `.env` file is required for this with the following contents:
