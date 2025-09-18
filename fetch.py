@@ -1,8 +1,4 @@
-import json
-import os
-
 import click
-import serpapi
 
 from fetchAPI import *
 from result import *
@@ -37,7 +33,6 @@ def search(ctx: click.Context, author: str, debug):
 
     matrix, vocab, term_to_row, doc_to_col = build_incidence_matrix(processed_docs)
     click.echo("Processing done!")
-
 
     query = input("Enter query: ")
     matching = retrieve_docs(query, processed_docs, matrix, term_to_row)

@@ -1,8 +1,6 @@
-import os
 import fetch
 import click
-import serpapi
-from dotenv import load_dotenv
+
 
 @click.group()
 @click.pass_context

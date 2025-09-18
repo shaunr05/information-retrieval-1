@@ -1,10 +1,8 @@
+import os
 import sys
 import time
 import re
-
-import requests.exceptions
 import serpapi
-import os
 
 from dotenv import load_dotenv
 from serpapi import HTTPError
@@ -15,7 +13,7 @@ def get_client() -> serpapi.Client:
     global _client
     if _client is None:
         load_dotenv()
-        _client = serpapi.Client()
+        _client = serpapi.Client(api_key=os.getenv(key='API_KEY'))
 
     return _client
 
