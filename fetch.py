@@ -17,7 +17,7 @@ fetch: click.Group
 @click.argument('author')
 @click.option('-d', '--debug', is_flag=True)
 @click.pass_context
-def search(ctx: click.Context, author: str, debug):
+def search(ctx: click.Context, author: str, debug): #TODO: move the logic to another file
 
     results = get_search_results(author)
     deduped_results = deduplicate(results)

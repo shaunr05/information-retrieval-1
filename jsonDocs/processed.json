@@ -2,800 +2,564 @@
     {
         "id": 1,
         "title": "Spatial pyramid pooling in deep convolutional networks for visual recognition",
-        "authors": [
-            {
-                "name": "K He",
-                "author_id": "DhtAFkwAAAAJ"
-            },
-            {
-                "name": "X Zhang",
-                "author_id": "yuB-cfoAAAAJ"
-            },
-            {
-                "name": "S Ren",
-                "author_id": "AUhj438AAAAJ"
-            },
-            {
-                "name": "J Sun",
-                "author_id": "ALVSZAYAAAAJ"
-            }
-        ],
+        "authors": "K He, X Zhang, S Ren, J Sun",
         "year": 2015,
-        "citations": 18353,
+        "citations": 18360,
         "terms": [
-            "implementation",
-            "deep",
-            "table",
-            "r",
-            "feature",
-            "network",
-            "visual",
-            "computation",
-            "publish",
-            "convolutional",
-            "implement",
-            "spatial",
-            "code",
-            "pool",
-            "caffe",
             "cnn",
-            "author",
+            "deep",
             "recognition",
+            "network",
+            "convolutional",
+            "pyramid",
+            "spatial",
+            "implementation",
+            "r",
+            "visual",
+            "feature",
+            "code",
+            "table",
+            "author",
             "evaluate",
-            "pyramid"
-        ]
-    },
-    {
-        "id": 2,
-        "title": "Image completion approaches using the statistics of similar patches",
-        "authors": [
-            {
-                "name": "K He",
-                "author_id": "DhtAFkwAAAAJ"
-            },
-            {
-                "name": "J Sun",
-                "author_id": "ALVSZAYAAAAJ"
-            }
-        ],
-        "year": 2014,
-        "citations": 206,
-        "terms": [
-            "patchesimage",
-            "statistic",
-            "fill",
-            "similar",
-            "missing",
-            "image",
-            "problem",
-            "match",
-            "novel",
-            "approach",
-            "completion",
-            "address",
-            "paper",
-            "use",
-            "patch",
-            "observe",
-            "involve"
+            "caffe",
+            "implement",
+            "publish",
+            "computation",
+            "pool"
         ]
     },
     {
         "id": 3,
         "title": "Identity mappings in deep residual networks",
-        "authors": [
-            {
-                "name": "K He",
-                "author_id": "DhtAFkwAAAAJ"
-            },
-            {
-                "name": "X Zhang",
-                "author_id": "yuB-cfoAAAAJ"
-            },
-            {
-                "name": "S Ren",
-                "author_id": "AUhj438AAAAJ"
-            },
-            {
-                "name": "J Sun",
-                "author_id": "ALVSZAYAAAAJ"
-            }
-        ],
+        "authors": "K He, X Zhang, S Ren, J Sun",
         "year": 2016,
-        "citations": 14280,
+        "citations": 14294,
         "terms": [
-            "network",
+            "mapping",
+            "identity",
+            "keyword",
+            "add",
             "search",
             "deep",
-            "mapping",
-            "keyword",
-            "author",
-            "update",
-            "algorithm",
             "learning",
-            "experimental",
-            "machine",
+            "update",
             "residual",
+            "network",
             "process",
-            "add",
-            "identity"
-        ]
-    },
-    {
-        "id": 4,
-        "title": "Rectangling panoramic images via warping",
-        "authors": [
-            {
-                "name": "K He",
-                "author_id": "DhtAFkwAAAAJ"
-            },
-            {
-                "name": "H Chang",
-                "author_id": "eZQNcvcAAAAJ"
-            },
-            {
-                "name": "J Sun",
-                "author_id": "ALVSZAYAAAAJ"
-            }
-        ],
-        "year": 2013,
-        "citations": 126,
-        "terms": [
-            "like",
-            "anonymous",
-            "fruitful",
-            "rectangle",
-            "study",
-            "thank",
-            "liu",
-            "user",
-            "video",
-            "volunteer",
-            "jiangyu",
-            "reviewer",
-            "warping",
-            "participate",
+            "algorithm",
+            "experimental",
             "author",
-            "discussion",
-            "image",
-            "panoramic",
-            "wen",
-            "fang"
-        ]
-    },
-    {
-        "id": 5,
-        "title": "Statistics of patch offsets for image completion",
-        "authors": [
-            {
-                "name": "K He",
-                "author_id": "DhtAFkwAAAAJ"
-            },
-            {
-                "name": "J Sun",
-                "author_id": "ALVSZAYAAAAJ"
-            }
-        ],
-        "year": 2012,
-        "citations": 267,
-        "terms": [
-            "statistic",
-            "fill",
-            "similar",
-            "missing",
-            "image",
-            "problem",
-            "match",
-            "completion",
-            "offset",
-            "address",
-            "paper",
-            "patch",
-            "observe",
-            "involve",
-            "completionimage"
+            "machine"
         ]
     },
     {
         "id": 6,
         "title": "Guided image filtering",
-        "authors": [
-            {
-                "name": "K He",
-                "author_id": "DhtAFkwAAAAJ"
-            },
-            {
-                "name": "J Sun",
-                "author_id": "ALVSZAYAAAAJ"
-            },
-            {
-                "name": "X Tang",
-                "author_id": "qpBtpGsAAAAJ"
-            }
-        ],
+        "authors": "K He, J Sun, X Tang",
         "year": 2012,
-        "citations": 8887,
+        "citations": 8889,
         "terms": [
-            "compute",
             "model",
-            "guide",
             "content",
-            "derive",
-            "consider",
-            "image",
-            "propose",
-            "novel",
-            "local",
-            "filteringin",
-            "explicit",
             "paper",
-            "linear",
-            "output",
-            "filter"
-        ]
-    },
-    {
-        "id": 7,
-        "title": "Computing nearest-neighbor fields via propagation-assisted kd-trees",
-        "authors": [
-            {
-                "name": "K He",
-                "author_id": "DhtAFkwAAAAJ"
-            },
-            {
-                "name": "J Sun",
-                "author_id": "ALVSZAYAAAAJ"
-            }
-        ],
-        "year": 2012,
-        "citations": 186,
-        "terms": [
+            "propose",
+            "filteringin",
+            "local",
             "compute",
-            "core",
-            "kd",
-            "propagation",
-            "ram",
-            "pm",
-            "field",
-            "cpu",
-            "essentially",
-            "intel",
-            "pc",
-            "nearest",
-            "assist",
-            "tree",
-            "run",
-            "code",
-            "com",
-            "algorithm",
-            "author",
-            "gb",
-            "csh",
-            "neighbor",
-            "website"
-        ]
-    },
-    {
-        "id": 8,
-        "title": "Research landscape and trends of human umbilical cord mesenchymal stem cell-derived exosomes",
-        "authors": "Unknown",
-        "year": 2025,
-        "citations": 2,
-        "terms": [
-            "correspond",
-            "analysis",
-            "cell",
-            "researcher",
-            "reveal",
-            "mesenchymal",
-            "landscape",
-            "human",
-            "study",
-            "exosome",
-            "stem",
-            "support",
-            "cord",
-            "umbilical",
-            "trend",
-            "prolific",
-            "research",
+            "filter",
+            "explicit",
+            "novel",
+            "guide",
+            "image",
+            "consider",
             "derive",
-            "available",
-            "datum",
-            "finding",
-            "author",
-            "productivity"
-        ]
-    },
-    {
-        "id": 9,
-        "title": "Instance-sensitive fully convolutional networks",
-        "authors": [
-            {
-                "name": "J Dai",
-                "author_id": "SH_-B_AAAAAJ"
-            },
-            {
-                "name": "K He",
-                "author_id": "DhtAFkwAAAAJ"
-            },
-            {
-                "name": "Y Li",
-                "author_id": "MW36lZUAAAAJ"
-            },
-            {
-                "name": "S Ren",
-                "author_id": "AUhj438AAAAJ"
-            },
-            {
-                "name": "J Sun",
-                "author_id": "ALVSZAYAAAAJ"
-            }
-        ],
-        "year": 2016,
-        "citations": 553,
-        "terms": [
-            "network",
-            "fully",
-            "result",
-            "keyword",
-            "code",
-            "available",
-            "publicly",
-            "instance",
-            "sensitive",
-            "experimental",
-            "convolutional",
-            "machine",
-            "mnc",
-            "process",
-            "provide",
-            "add",
-            "author"
+            "linear",
+            "output"
         ]
     },
     {
         "id": 10,
         "title": "Convolutional neural networks at constrained time cost",
-        "authors": [
-            {
-                "name": "K He",
-                "author_id": "DhtAFkwAAAAJ"
-            },
-            {
-                "name": "J Sun",
-                "author_id": "ALVSZAYAAAAJ"
-            }
-        ],
+        "authors": "K He, J Sun",
         "year": 2015,
         "citations": 3247,
         "terms": [
-            "time",
-            "compute",
-            "adopt",
-            "augmentation",
-            "paper",
+            "data",
             "network",
-            "neural",
-            "al",
-            "constrain",
             "convolutional",
             "result",
-            "et",
-            "data",
-            "cost",
+            "time",
+            "al",
+            "release",
+            "view",
+            "augmentation",
+            "neural",
             "author",
             "model",
-            "view",
-            "use",
+            "cost",
+            "paper",
             "chatfield",
-            "release"
-        ]
-    },
-    {
-        "id": 11,
-        "title": "Is faster R-CNN doing well for pedestrian detection?",
-        "authors": [
-            {
-                "name": "L Zhang",
-                "author_id": "iO6xAdgAAAAJ"
-            },
-            {
-                "name": "L Lin",
-                "author_id": "Nav8m8gAAAAJ"
-            },
-            {
-                "name": "X Liang",
-                "author_id": "voxznZAAAAAJ"
-            },
-            {
-                "name": "K He",
-                "author_id": "DhtAFkwAAAAJ"
-            }
-        ],
-        "year": 2016,
-        "citations": 1109,
-        "terms": [
-            "object",
-            "deep",
-            "arguably",
-            "topic",
-            "special",
-            "detector",
-            "learning",
-            "cnn",
-            "pedestrian",
-            "address",
-            "general",
-            "r",
-            "detection",
-            "recent",
-            "fast"
+            "constrain",
+            "compute",
+            "use",
+            "et",
+            "adopt"
         ]
     },
     {
         "id": 12,
         "title": "Exploring plain vision transformer backbones for object detection",
-        "authors": [
-            {
-                "name": "Y Li",
-                "author_id": "-VgS8AIAAAAJ"
-            },
-            {
-                "name": "H Mao",
-                "author_id": "fHfJh9cAAAAJ"
-            },
-            {
-                "name": "R Girshick",
-                "author_id": "W8VIEZgAAAAJ"
-            },
-            {
-                "name": "K He",
-                "author_id": "DhtAFkwAAAAJ"
-            }
-        ],
+        "authors": "Y Li, H Mao, R Girshick, K He",
         "year": 2022,
-        "citations": 1217,
+        "citations": 1219,
         "terms": [
-            "network",
             "object",
-            "enable",
-            "vit",
-            "fine",
-            "detectionwe",
-            "explore",
-            "plain",
-            "backbone",
             "vision",
-            "non",
-            "hierarchical",
-            "architecture",
-            "tuned",
-            "design",
-            "original",
+            "vit",
             "transformer",
-            "detection"
-        ]
-    },
-    {
-        "id": 13,
-        "title": "Octanoic acid\u2013rich enteral nutrition prevented lipopolysaccharide\u2010induced acute liver injury through c\u2010Jun N\u2010terminal kinase\u2013dependent autophagy",
-        "authors": "Unknown",
-        "year": 2022,
-        "citations": 13,
-        "terms": [
-            "contribution",
-            "kaime",
-            "nutrition",
-            "wei",
+            "architecture",
+            "hierarchical",
+            "tuned",
+            "original",
+            "detection",
+            "network",
             "design",
-            "cao",
-            "acute",
-            "acid",
-            "conception",
-            "contribute",
-            "rich",
-            "liver",
-            "injury",
-            "kinase",
-            "chen",
-            "autophagy",
-            "octanoic",
-            "chun",
-            "dependent",
-            "prevent",
-            "peng",
-            "author",
-            "equally",
-            "enteral",
-            "du",
-            "research"
-        ]
-    },
-    {
-        "id": 14,
-        "title": "A global sampling method for alpha matting",
-        "authors": [
-            {
-                "name": "K He",
-                "author_id": "DhtAFkwAAAAJ"
-            },
-            {
-                "name": "C Rhemann",
-                "author_id": "5D0_pjcAAAAJ"
-            },
-            {
-                "name": "C Rother",
-                "author_id": "N_YNMIMAAAAJ"
-            },
-            {
-                "name": "X Tang",
-                "author_id": "qpBtpGsAAAAJ"
-            },
-            {
-                "name": "J Sun",
-                "author_id": "ALVSZAYAAAAJ"
-            }
-        ],
-        "year": 2011,
-        "citations": 432,
-        "terms": [
-            "refer",
-            "foreground",
-            "matting",
-            "alpha",
-            "softly",
-            "problem",
-            "know",
-            "sampling",
-            "extract",
-            "unknown",
-            "straightforward",
-            "trimap",
-            "pixel",
-            "global",
-            "background",
-            "method",
-            "image",
-            "specify",
-            "mattingalpha"
-        ]
-    },
-    {
-        "id": 15,
-        "title": "Polyimide@ ketjenblack composite: a porous organic cathode for fast rechargeable potassium\u2010ion batteries",
-        "authors": [
-            {
-                "name": "C Zhang",
-                "author_id": "HDFfNjEAAAAJ"
-            },
-            {
-                "name": "Y Xu",
-                "author_id": "0rjWUboAAAAJ"
-            },
-            {
-                "name": "Y Dong",
-                "author_id": "M_z1zCIAAAAJ"
-            },
-            {
-                "name": "H Zhao",
-                "author_id": "3RL248MAAAAJ"
-            }
-        ],
-        "year": 2020,
-        "citations": 63,
-        "terms": [
-            "search",
-            "cathode",
-            "kaiming",
-            "ketjenblack",
-            "paper",
-            "projekt",
-            "thank",
-            "measurement",
-            "ftir",
-            "organic",
-            "open",
-            "composite",
-            "pezoldt",
-            "rechargeable",
-            "battery",
-            "organize",
-            "author",
+            "plain",
+            "detectionwe",
+            "non",
             "enable",
-            "porous",
-            "funding",
-            "j\u00f6rg",
-            "help",
-            "access",
-            "deal",
-            "fast"
+            "fine",
+            "backbone",
+            "explore"
         ]
     },
     {
         "id": 16,
         "title": "Accelerating very deep convolutional networks for classification and detection",
-        "authors": [
-            {
-                "name": "X Zhang",
-                "author_id": "yuB-cfoAAAAJ"
-            },
-            {
-                "name": "K He",
-                "author_id": "DhtAFkwAAAAJ"
-            },
-            {
-                "name": "J Sun",
-                "author_id": "ALVSZAYAAAAJ"
-            }
-        ],
+        "authors": "X Zhang, K He, J Sun",
         "year": 2015,
         "citations": 1114,
         "terms": [
-            "time",
+            "cnns",
+            "cnn",
             "deep",
             "impact",
-            "paper",
             "network",
-            "classification",
-            "vision",
-            "computation",
-            "neural",
-            "detectionthis",
             "convolutional",
-            "accelerate",
-            "cnn",
-            "substantially",
+            "time",
             "computer",
-            "especially",
             "aim",
-            "cnns",
-            "test"
+            "detectionthis",
+            "especially",
+            "test",
+            "vision",
+            "substantially",
+            "classification",
+            "neural",
+            "paper",
+            "accelerate",
+            "computation"
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Is faster R-CNN doing well for pedestrian detection?",
+        "authors": "L Zhang, L Lin, X Liang, K He",
+        "year": 2016,
+        "citations": 1109,
+        "terms": [
+            "cnn",
+            "special",
+            "address",
+            "object",
+            "pedestrian",
+            "arguably",
+            "general",
+            "deep",
+            "learning",
+            "topic",
+            "detector",
+            "detection",
+            "recent",
+            "r",
+            "fast"
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Instance-sensitive fully convolutional networks",
+        "authors": "J Dai, K He, Y Li, S Ren, J Sun",
+        "year": 2016,
+        "citations": 553,
+        "terms": [
+            "provide",
+            "keyword",
+            "add",
+            "code",
+            "instance",
+            "mnc",
+            "sensitive",
+            "process",
+            "network",
+            "result",
+            "convolutional",
+            "publicly",
+            "fully",
+            "experimental",
+            "author",
+            "available",
+            "machine"
         ]
     },
     {
         "id": 17,
         "title": "Exploring randomly wired neural networks for image recognition",
-        "authors": [
-            {
-                "name": "A Kirillov",
-                "author_id": "bHn29ScAAAAJ"
-            },
-            {
-                "name": "R Girshick",
-                "author_id": "W8VIEZgAAAAJ"
-            },
-            {
-                "name": "K He",
-                "author_id": "DhtAFkwAAAAJ"
-            }
-        ],
+        "authors": "A Kirillov, R Girshick, K He",
         "year": 2019,
         "citations": 486,
         "terms": [
-            "randomly",
-            "paper",
-            "network",
-            "human",
-            "study",
-            "random",
-            "explore",
-            "neural",
-            "minimize",
-            "methodology",
-            "prior",
-            "author",
             "recognition",
-            "model",
-            "image",
-            "classical",
-            "use",
+            "network",
+            "randomly",
+            "random",
+            "study",
+            "minimize",
             "graph",
+            "image",
+            "bias",
+            "human",
             "wire",
-            "bias"
-        ]
-    },
-    {
-        "id": 18,
-        "title": "Phytofabrication of nanoparticles as novel drugs for anticancer applications",
-        "authors": "Unknown",
-        "year": 2019,
-        "citations": 65,
-        "terms": [
-            "cause",
-            "major",
-            "anticancer",
-            "stumble",
-            "resection",
-            "life",
-            "drug",
-            "death",
-            "nanoparticle",
-            "treatment",
-            "foremost",
-            "phytofabrication",
-            "primary",
-            "novel",
-            "applicationscancer",
-            "surgical",
-            "expectancy",
-            "increase",
-            "globally",
-            "block"
-        ]
-    },
-    {
-        "id": 19,
-        "title": "Expert consensus on tubeless video-assisted thoracoscopic surgery (Guangzhou)",
-        "authors": "Unknown",
-        "year": 2019,
-        "citations": 40,
-        "terms": [
-            "aspect",
-            "ensure",
-            "work",
-            "integrity",
-            "guangzhou",
-            "expert",
-            "relate",
-            "accuracy",
-            "consensus",
-            "assist",
-            "video",
-            "question",
-            "statement",
+            "neural",
             "author",
-            "tubeless",
-            "appropriately",
-            "ethical",
-            "surgery",
-            "accountable",
-            "thoracoscopic"
+            "prior",
+            "explore",
+            "model",
+            "paper",
+            "methodology",
+            "use",
+            "classical"
+        ]
+    },
+    {
+        "id": 14,
+        "title": "A global sampling method for alpha matting",
+        "authors": "K He, C Rhemann, C Rother, X Tang, J Sun",
+        "year": 2011,
+        "citations": 432,
+        "terms": [
+            "extract",
+            "specify",
+            "matting",
+            "foreground",
+            "problem",
+            "pixel",
+            "image",
+            "softly",
+            "method",
+            "refer",
+            "trimap",
+            "unknown",
+            "sampling",
+            "background",
+            "know",
+            "alpha",
+            "mattingalpha",
+            "global",
+            "straightforward"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Statistics of patch offsets for image completion",
+        "authors": "K He, J Sun",
+        "year": 2012,
+        "citations": 267,
+        "terms": [
+            "problem",
+            "paper",
+            "offset",
+            "missing",
+            "similar",
+            "fill",
+            "observe",
+            "statistic",
+            "completionimage",
+            "involve",
+            "image",
+            "patch",
+            "completion",
+            "match",
+            "address"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Image completion approaches using the statistics of similar patches",
+        "authors": "K He, J Sun",
+        "year": 2014,
+        "citations": 206,
+        "terms": [
+            "problem",
+            "paper",
+            "similar",
+            "missing",
+            "patchesimage",
+            "fill",
+            "observe",
+            "use",
+            "statistic",
+            "novel",
+            "involve",
+            "approach",
+            "image",
+            "patch",
+            "completion",
+            "match",
+            "address"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Computing nearest-neighbor fields via propagation-assisted kd-trees",
+        "authors": "K He, J Sun",
+        "year": 2012,
+        "citations": 186,
+        "terms": [
+            "run",
+            "gb",
+            "website",
+            "neighbor",
+            "essentially",
+            "pm",
+            "cpu",
+            "tree",
+            "pc",
+            "algorithm",
+            "code",
+            "ram",
+            "kd",
+            "author",
+            "intel",
+            "nearest",
+            "field",
+            "com",
+            "propagation",
+            "compute",
+            "assist",
+            "csh",
+            "core"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Rectangling panoramic images via warping",
+        "authors": "K He, H Chang, J Sun",
+        "year": 2013,
+        "citations": 126,
+        "terms": [
+            "fang",
+            "discussion",
+            "jiangyu",
+            "user",
+            "participate",
+            "volunteer",
+            "study",
+            "anonymous",
+            "fruitful",
+            "image",
+            "panoramic",
+            "thank",
+            "reviewer",
+            "warping",
+            "like",
+            "author",
+            "video",
+            "liu",
+            "wen",
+            "rectangle"
         ]
     },
     {
         "id": 20,
         "title": "Are labels necessary for neural architecture search?",
-        "authors": [
-            {
-                "name": "C Liu",
-                "author_id": "qvRsU00AAAAJ"
-            },
-            {
-                "name": "P Doll\u00e1r",
-                "author_id": "a8Y2OJMAAAAJ"
-            },
-            {
-                "name": "K He",
-                "author_id": "DhtAFkwAAAAJ"
-            },
-            {
-                "name": "R Girshick",
-                "author_id": "W8VIEZgAAAAJ"
-            },
-            {
-                "name": "A Yuille",
-                "author_id": "FJ-huxgAAAAJ"
-            }
-        ],
+        "authors": "C Liu, P Doll\u00e1r, K He, R Girshick, A Yuille",
         "year": 2020,
         "citations": 103,
         "terms": [
-            "network",
-            "human",
+            "computer",
             "vision",
-            "image",
             "architecture",
-            "neural",
-            "label",
-            "use",
-            "design",
             "necessary",
+            "human",
             "typically",
+            "use",
             "find",
-            "machine",
+            "network",
+            "label",
+            "design",
+            "image",
+            "neural",
             "associate",
-            "computer"
+            "machine"
+        ]
+    },
+    {
+        "id": 18,
+        "title": "Phytofabrication of nanoparticles as novel drugs for anticancer applications",
+        "authors": "QY Wei, KM He, JL Chen, YM Xu, ATY Lau",
+        "year": 2019,
+        "citations": 65,
+        "terms": [
+            "foremost",
+            "drug",
+            "globally",
+            "major",
+            "stumble",
+            "nanoparticle",
+            "death",
+            "life",
+            "surgical",
+            "phytofabrication",
+            "treatment",
+            "anticancer",
+            "primary",
+            "cause",
+            "applicationscancer",
+            "increase",
+            "novel",
+            "block",
+            "resection",
+            "expectancy"
+        ]
+    },
+    {
+        "id": 15,
+        "title": "Polyimide@ ketjenblack composite: a porous organic cathode for fast rechargeable potassium\u2010ion batteries",
+        "authors": "C Zhang, Y Xu, Y Dong, H Zhao",
+        "year": 2020,
+        "citations": 63,
+        "terms": [
+            "j\u00f6rg",
+            "funding",
+            "pezoldt",
+            "porous",
+            "ftir",
+            "open",
+            "deal",
+            "fast",
+            "kaiming",
+            "organize",
+            "composite",
+            "projekt",
+            "thank",
+            "cathode",
+            "battery",
+            "access",
+            "enable",
+            "rechargeable",
+            "author",
+            "paper",
+            "ketjenblack",
+            "search",
+            "organic",
+            "help",
+            "measurement"
+        ]
+    },
+    {
+        "id": 19,
+        "title": "Expert consensus on tubeless video-assisted thoracoscopic surgery (Guangzhou)",
+        "authors": "J He, J Liu, C Zhu, T Dai, K Cai, Z Zhang\u2026",
+        "year": 2019,
+        "citations": 40,
+        "terms": [
+            "consensus",
+            "question",
+            "integrity",
+            "accuracy",
+            "appropriately",
+            "thoracoscopic",
+            "work",
+            "guangzhou",
+            "accountable",
+            "aspect",
+            "ensure",
+            "author",
+            "expert",
+            "surgery",
+            "tubeless",
+            "video",
+            "assist",
+            "statement",
+            "ethical",
+            "relate"
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Octanoic acid\u2013rich enteral nutrition prevented lipopolysaccharide\u2010induced acute liver injury through c\u2010Jun N\u2010terminal kinase\u2013dependent autophagy",
+        "authors": "K He, C Cao, X Xu, Z Ye, X Ma\u2026",
+        "year": 2022,
+        "citations": 13,
+        "terms": [
+            "enteral",
+            "equally",
+            "wei",
+            "chen",
+            "autophagy",
+            "acid",
+            "kaime",
+            "rich",
+            "chun",
+            "nutrition",
+            "kinase",
+            "prevent",
+            "octanoic",
+            "dependent",
+            "cao",
+            "acute",
+            "contribute",
+            "contribution",
+            "conception",
+            "author",
+            "peng",
+            "injury",
+            "design",
+            "research",
+            "du",
+            "liver"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Research landscape and trends of human umbilical cord mesenchymal stem cell-derived exosomes",
+        "authors": "D Chen, Z Chen, J Yuan, G Chen, Y Chen, K He\u2026",
+        "year": 2025,
+        "citations": 2,
+        "terms": [
+            "mesenchymal",
+            "prolific",
+            "trend",
+            "correspond",
+            "cell",
+            "study",
+            "landscape",
+            "stem",
+            "productivity",
+            "analysis",
+            "reveal",
+            "human",
+            "researcher",
+            "support",
+            "cord",
+            "author",
+            "exosome",
+            "finding",
+            "umbilical",
+            "research",
+            "datum",
+            "derive",
+            "available"
         ]
     }
 ]

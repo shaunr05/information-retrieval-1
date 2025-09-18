@@ -55,7 +55,7 @@ def preprocess(deduped_results: list) -> list:
         processed_doc = {
             'id': article.get('position'),
             'title': article.get('title'),
-            'authors': article.get('publication_info', {}).get('authors', "Unknown"), #TODO: get the proper authors ig
+            'authors': get_author(article.get('publication_info', {})),
             'year': get_year(article.get('publication_info', {}).get('summary', ''), article.get('title')),
             'citations': article.get('inline_links', {}).get('cited_by', {}).get('total', 0),
             'terms': set(tokens)
@@ -82,3 +82,29 @@ def extract_year(string: str) -> int | None:
     # re.findall returns only the prefix (19|20), so we need full matches:
     years = re.findall(r"\b(?:19|20)\d{2}\b", string)
     return max(map(int, years)) if years else None
+
+
+def get_author(publication_info: dict) -> str:
+    authors: list = publication_info.get('authors', [])
+    summary: str = publication_info.get('summary', '')
+
+    final_authors_str = ""
+
+    if not authors and not summary:
+        return "Unknown"
+
+    if authors:
+        authors_list = [author.get('name', '') for author in authors]
+        final_authors_str = join_authors_list(authors_list)
+
+    if final_authors_str == "":
+        authors_com = summary.split(' - ')[0].strip()
+        authors_list_sum = [a.strip() for a in authors_com.split(",") if a.strip() != ""]
+        final_authors_str = join_authors_list(authors_list_sum)
+
+    return final_authors_str
+
+
+def join_authors_list(authors_list: list) -> str:
+    return ", ".join(authors_list)
+
