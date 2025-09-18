@@ -21,7 +21,7 @@ def get_client() -> serpapi.Client:
 def get_search_results(author: str) -> dict:
     client = get_client()
 
-    max_results = 20 #TODO: remember to change this to 100
+    max_results = 100 #TODO: remember to change this to 100
     all_results = []
     start = 0
 

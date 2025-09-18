@@ -1,3 +1,5 @@
+from nltk import download
+
 # Information Retrieval Lab 1
 
 This project allows you to fetch articles for a given author and perform boolean retrieval queries on the retrieved documents. The results are stored in a CSV file.
@@ -10,6 +12,18 @@ Before running the project, make sure Python is installed. Install the packages 
 
 ```bash
 pip install -r requirements.txt
+```
+
+also, a `.env` file is required for this with the following contents:
+
+```dotenv
+API_KEY='your_key_here'
+```
+
+and the natural language processing requires a package that can be installed with:
+
+```bash
+py -m spacy download 'en_core_web_sm'
 ```
 
 ## Running the code

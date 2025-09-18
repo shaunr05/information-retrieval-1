@@ -1,38 +1,7 @@
 {
     "organic_results": [
         {
-            "position": 1,
-            "title": "Spatial pyramid pooling in deep convolutional networks for visual recognition",
-            "snippet": "\u2026 The implementation of R-CNN is from the code published by the authors implemented in Caffe [35]. We also implement our feature computation in Caffe. In Table 10 we evaluate the \u2026",
-            "publication_info": {
-                "summary": "K He, X Zhang, S Ren, J Sun - IEEE transactions on pattern \u2026, 2015 - ieeexplore.ieee.org",
-                "authors": [
-                    {
-                        "name": "K He",
-                        "author_id": "DhtAFkwAAAAJ"
-                    },
-                    {
-                        "name": "X Zhang",
-                        "author_id": "yuB-cfoAAAAJ"
-                    },
-                    {
-                        "name": "S Ren",
-                        "author_id": "AUhj438AAAAJ"
-                    },
-                    {
-                        "name": "J Sun",
-                        "author_id": "ALVSZAYAAAAJ"
-                    }
-                ]
-            },
-            "inline_links": {
-                "cited_by": {
-                    "total": 18360
-                }
-            }
-        },
-        {
-            "position": 3,
+            "position": 60,
             "title": "Identity mappings in deep residual networks",
             "snippet": "\u2026 These keywords were added by machine and not by the authors. This process is experimental and the keywords may be updated as the learning algorithm \u2026 Search by keyword or author \u2026",
             "publication_info": {
@@ -63,42 +32,34 @@
             }
         },
         {
-            "position": 6,
-            "title": "Guided image filtering",
-            "snippet": "In this paper, we propose a novel explicit image filter called guided filter. Derived from a local linear model, the guided filter computes the filtering output by considering the content of a \u2026",
+            "position": 18,
+            "title": "Histone H4-K16 acetylation controls chromatin structure and protein interactions",
+            "snippet": "Acetylation of histone H4 on lysine 16 (H4-K16Ac) is a prevalent and reversible posttranslational chromatin modification in eukaryotes. To characterize the structural and functional role \u2026",
             "publication_info": {
-                "summary": "K He, J Sun, X Tang - IEEE transactions on pattern analysis \u2026, 2012 - ieeexplore.ieee.org",
+                "summary": "M Shogren-Knaak, H Ishii, JM Sun, MJ Pazin, JR Davie\u2026 - Science, 2006 - science.org",
                 "authors": [
                     {
-                        "name": "K He",
-                        "author_id": "DhtAFkwAAAAJ"
-                    },
-                    {
-                        "name": "J Sun",
-                        "author_id": "ALVSZAYAAAAJ"
-                    },
-                    {
-                        "name": "X Tang",
-                        "author_id": "qpBtpGsAAAAJ"
+                        "name": "JR Davie",
+                        "author_id": "vX_d69cAAAAJ"
                     }
                 ]
             },
             "inline_links": {
                 "cited_by": {
-                    "total": 8889
+                    "total": 2449
                 }
             }
         },
         {
-            "position": 10,
-            "title": "Convolutional neural networks at constrained time cost",
-            "snippet": "\u2026 In this paper, we adopt the same data augmentation as Chatfield et al.\u2019s paper [1] and He et al.\u2019s \u2026 The 10-view results of VGG-16 is computed using the model released by the authors. \u2026",
+            "position": 14,
+            "title": "Directly converting CO2 into a gasoline fuel",
+            "snippet": "\u2026 All other relevant source data are available from the corresponding author upon reasonable \u2026 All the authors contributed to analysis and discussion on the data. QG and HX supervised \u2026",
             "publication_info": {
-                "summary": "K He, J Sun - Proceedings of the IEEE conference on computer \u2026, 2015 - cv-foundation.org",
+                "summary": "\u2026, R Yao, Z Wen, C Fang, L Guo, H Xu, J Sun - Nature \u2026, 2017 - nature.com",
                 "authors": [
                     {
-                        "name": "K He",
-                        "author_id": "DhtAFkwAAAAJ"
+                        "name": "L Guo",
+                        "author_id": "q_lgO14AAAAJ"
                     },
                     {
                         "name": "J Sun",
@@ -108,101 +69,122 @@
             },
             "inline_links": {
                 "cited_by": {
-                    "total": 3247
+                    "total": 1185
                 }
             }
         },
         {
-            "position": 12,
-            "title": "Exploring plain vision transformer backbones for object detection",
-            "snippet": "We explore the plain, non-hierarchical Vision Transformer (ViT) as a backbone network for object detection. This design enables the original ViT architecture to be fine-tuned for object \u2026",
+            "position": 30,
+            "title": "Historical perspective of traditional indigenous medical practices: the current renaissance and conservation of herbal resources",
+            "snippet": "\u2026 Shen-Nong-Ben-Cao-Jing, the first known user guide to CHM, was written by authors who lived during the period immediately following the fall of the Han dynasty (202 BCE\u2013220 CE). \u2026",
             "publication_info": {
-                "summary": "Y Li, H Mao, R Girshick, K He - European conference on computer vision, 2022 - Springer",
+                "summary": "\u2026, HQ Chen, SF Zhang, MK Tang, JN Sun\u2026 - Evidence\u2010Based \u2026, 2014 - Wiley Online Library",
                 "authors": [
                     {
-                        "name": "Y Li",
-                        "author_id": "-VgS8AIAAAAJ"
-                    },
-                    {
-                        "name": "H Mao",
-                        "author_id": "fHfJh9cAAAAJ"
-                    },
-                    {
-                        "name": "R Girshick",
-                        "author_id": "W8VIEZgAAAAJ"
-                    },
-                    {
-                        "name": "K He",
-                        "author_id": "DhtAFkwAAAAJ"
+                        "name": "HQ Chen",
+                        "author_id": "rvkHXrYAAAAJ"
                     }
                 ]
             },
             "inline_links": {
                 "cited_by": {
-                    "total": 1219
+                    "total": 866
                 }
             }
         },
         {
-            "position": 16,
-            "title": "Accelerating very deep convolutional networks for classification and detection",
-            "snippet": "This paper aims to accelerate the test-time computation of convolutional neural networks (CNNs), especially very deep CNNs [1] that have substantially impacted the computer vision \u2026",
+            "position": 1,
+            "title": "Guidelines for the diagnosis and treatment of hepatocellular carcinoma (2019 edition)",
+            "snippet": "Background: Primary liver cancer, around 90% are hepatocellular carcinoma in China, is the fourth most common malignancy and the second leading cause of tumor-related death, \u2026",
             "publication_info": {
-                "summary": "X Zhang, J Zou, K He, J Sun - IEEE transactions on pattern \u2026, 2015 - ieeexplore.ieee.org",
+                "summary": "J Zhou, H Sun, Z Wang, W Cong, J Wang, M Zeng\u2026 - Liver cancer, 2020 - karger.com",
                 "authors": [
                     {
-                        "name": "X Zhang",
-                        "author_id": "yuB-cfoAAAAJ"
-                    },
-                    {
-                        "name": "K He",
-                        "author_id": "DhtAFkwAAAAJ"
-                    },
-                    {
-                        "name": "J Sun",
-                        "author_id": "ALVSZAYAAAAJ"
+                        "name": "M Zeng",
+                        "author_id": "5h2lwLoAAAAJ"
                     }
                 ]
             },
             "inline_links": {
                 "cited_by": {
-                    "total": 1114
-                }
-            }
-        },
-        {
-            "position": 11,
-            "title": "Is faster R-CNN doing well for pedestrian detection?",
-            "snippet": "Detecting pedestrian has been arguably addressed as a special topic beyond general object detection. Although recent deep learning object detectors such as Fast/Faster R-CNN have \u2026",
-            "publication_info": {
-                "summary": "L Zhang, L Lin, X Liang, K He - European conference on computer vision, 2016 - Springer",
-                "authors": [
-                    {
-                        "name": "L Zhang",
-                        "author_id": "iO6xAdgAAAAJ"
-                    },
-                    {
-                        "name": "L Lin",
-                        "author_id": "Nav8m8gAAAAJ"
-                    },
-                    {
-                        "name": "X Liang",
-                        "author_id": "voxznZAAAAAJ"
-                    },
-                    {
-                        "name": "K He",
-                        "author_id": "DhtAFkwAAAAJ"
-                    }
-                ]
-            },
-            "inline_links": {
-                "cited_by": {
-                    "total": 1109
+                    "total": 770
                 }
             }
         },
         {
             "position": 9,
+            "title": "Improved delay-range-dependent stability criteria for linear systems with time-varying delays",
+            "snippet": "This paper is concerned with the stability analysis of linear systems with time-varying delays in a given range. A new type of augmented Lyapunov functional is proposed which contains \u2026",
+            "publication_info": {
+                "summary": "J Sun, GP Liu, J Chen, D Rees - Automatica, 2010 - Elsevier",
+                "authors": [
+                    {
+                        "name": "J Sun",
+                        "author_id": "ALVSZAYAAAAJ"
+                    },
+                    {
+                        "name": "GP Liu",
+                        "author_id": "jWmF7IQAAAAJ"
+                    },
+                    {
+                        "name": "J Chen",
+                        "author_id": "bRgX19EAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 689
+                }
+            }
+        },
+        {
+            "position": 28,
+            "title": "Intraoral digital impression technique: a review",
+            "snippet": "\u2026 The authors disclose no conflicts of interests related to this work. \u2026 The authors concluded that the accuracy of digital impressions was similar to that of conventional impressions, \u2026",
+            "publication_info": {
+                "summary": "S Ting\u2010shu, S Jian - Journal of Prosthodontics, 2015 - Wiley Online Library"
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 636
+                }
+            }
+        },
+        {
+            "position": 4,
+            "title": "Guidelines for diagnosis and treatment of primary liver cancer in China (2017 Edition)",
+            "snippet": "Background: Hepatocellular carcinoma (HCC) (about 85\u201390% of primary liver cancer) is particularly prevalent in China because of the high prevalence of chronic hepatitis B infection. \u2026",
+            "publication_info": {
+                "summary": "J Zhou, HC Sun, Z Wang, WM Cong, JH Wang\u2026 - Liver cancer, 2018 - karger.com"
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 611
+                }
+            }
+        },
+        {
+            "position": 59,
+            "title": "Intercropping enhances soil carbon and nitrogen",
+            "snippet": "Intercropping, the simultaneous cultivation of multiple crop species in a single field, increases aboveground productivity due to species complementarity. We hypothesized that \u2026",
+            "publication_info": {
+                "summary": "WF Cong, E Hoffland, L Li, J Six, JH Sun\u2026 - Global change \u2026, 2015 - Wiley Online Library",
+                "authors": [
+                    {
+                        "name": "J Six",
+                        "author_id": "WIo5s8gAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 574
+                }
+            }
+        },
+        {
+            "position": 73,
             "title": "Instance-sensitive fully convolutional networks",
             "snippet": "\u2026 These keywords were added by machine and not by the authors. This process is experimental \u2026 the publicly available code, and the results of MNC [20] is provided by the authors of [20]. \u2026",
             "publication_info": {
@@ -237,23 +219,15 @@
             }
         },
         {
-            "position": 17,
-            "title": "Exploring randomly wired neural networks for image recognition",
-            "snippet": "\u2026 To minimize the human bias from us\u2014the authors of this paper\u2014on the prior, we will use three classical random graph models in our study ([7, 1, 51]; \u00a73.3). Our methodology for \u2026",
+            "position": 5,
+            "title": "Seroprevalence of immunoglobulin M and G antibodies against SARS-CoV-2 in China",
+            "snippet": "Detection of asymptomatic or subclinical novel human coronavirus SARS-CoV-2 infection is critical for understanding the overall prevalence and infection potential of COVID-19. To \u2026",
             "publication_info": {
-                "summary": "\u2026, A Kirillov, R Girshick, K He - Proceedings of the IEEE \u2026, 2019 - openaccess.thecvf.com",
+                "summary": "X Xu, J Sun, S Nie, H Li, Y Kong, M Liang, J Hou\u2026 - Nature medicine, 2020 - nature.com",
                 "authors": [
                     {
-                        "name": "A Kirillov",
-                        "author_id": "bHn29ScAAAAJ"
-                    },
-                    {
-                        "name": "R Girshick",
-                        "author_id": "W8VIEZgAAAAJ"
-                    },
-                    {
-                        "name": "K He",
-                        "author_id": "DhtAFkwAAAAJ"
+                        "name": "X Xu",
+                        "author_id": "VJ0woQoAAAAJ"
                     }
                 ]
             },
@@ -264,31 +238,72 @@
             }
         },
         {
-            "position": 14,
-            "title": "A global sampling method for alpha matting",
-            "snippet": "Alpha matting refers to the problem of softly extracting the foreground from an image. Given a trimap (specifying known foreground/background and unknown pixels), a straightforward \u2026",
+            "position": 6,
+            "title": "Ionic liquid-based green processes for energy production",
+            "snippet": "\u2026 Based on the simulation, the authors proposed that the reaction medium ILs may play primary roles in regulating intermediate polarity and the dipole moment of the transition state, by \u2026",
             "publication_info": {
-                "summary": "K He, C Rhemann, C Rother, X Tang, J Sun - CVPR 2011, 2011 - ieeexplore.ieee.org",
+                "summary": "S Zhang, J Sun, X Zhang, J Xin, Q Miao\u2026 - Chemical society \u2026, 2014 - pubs.rsc.org",
                 "authors": [
                     {
-                        "name": "K He",
-                        "author_id": "DhtAFkwAAAAJ"
-                    },
-                    {
-                        "name": "C Rhemann",
-                        "author_id": "5D0_pjcAAAAJ"
-                    },
-                    {
-                        "name": "C Rother",
-                        "author_id": "N_YNMIMAAAAJ"
-                    },
-                    {
-                        "name": "X Tang",
-                        "author_id": "qpBtpGsAAAAJ"
+                        "name": "S Zhang",
+                        "author_id": "JILuzV0AAAAJ"
                     },
                     {
                         "name": "J Sun",
                         "author_id": "ALVSZAYAAAAJ"
+                    },
+                    {
+                        "name": "J Xin",
+                        "author_id": "C6dulz8AAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 465
+                }
+            }
+        },
+        {
+            "position": 13,
+            "title": "Cobalt complex-catalyzed hydrosilylation of alkenes and alkynes",
+            "snippet": "\u2026 Interestingly, the authors proposed a catalytic cycle involving transformations on dicobaltcarbonyl species (Scheme 13), rather than mononuclear cobalt carbonyl species. (39b) While \u2026",
+            "publication_info": {
+                "summary": "J Sun, L Deng - ACS Catalysis, 2016 - ACS Publications"
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 442
+                }
+            }
+        },
+        {
+            "position": 79,
+            "title": "Plasmid-encoded tet(X) genes that confer high-level tigecycline resistance in Escherichia coli",
+            "snippet": "\u2026 Extra data supporting the findings of this study are available from the corresponding authors on reasonable request. \u2026 Jian Sun View author publications \u2026",
+            "publication_info": {
+                "summary": "J Sun, C Chen, CY Cui, Y Zhang, X Liu, ZH Cui\u2026 - Nature \u2026, 2019 - nature.com"
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 434
+                }
+            }
+        },
+        {
+            "position": 8,
+            "title": "COVID-19 and liver disease",
+            "snippet": "Since December 2019, patients with unexplained pneumonia have been found in Wuhan, Hubei Province, China, which was caused by a novel coronavirus that had not been \u2026",
+            "publication_info": {
+                "summary": "J Sun, A Aghemo, A Forner, L Valenti - Liver international, 2020 - air.unimi.it",
+                "authors": [
+                    {
+                        "name": "A Aghemo",
+                        "author_id": "bY6rHM0AAAAJ"
+                    },
+                    {
+                        "name": "L Valenti",
+                        "author_id": "MdYCXaMAAAAJ"
                     }
                 ]
             },
@@ -299,38 +314,179 @@
             }
         },
         {
-            "position": 5,
-            "title": "Statistics of patch offsets for image completion",
-            "snippet": "Image completion involves filling missing parts in images. In this paper we address this problem through the statistics of patch offsets. We observe that if we match similar patches in the \u2026",
+            "position": 17,
+            "title": "Randomized phase III trial of induction chemotherapy with docetaxel, cisplatin, and fluorouracil followed by surgery versus up-front surgery in locally advanced \u2026",
+            "snippet": "\u2026 The following protocol information is provided solely to describe how the authors conducted \u2026 information about the protocol are encouraged to consult the corresponding author directly. \u2026",
             "publication_info": {
-                "summary": "K He, J Sun - European conference on computer vision, 2012 - Springer",
+                "summary": "\u2026, G Ren, W Guo, WN William Jr, J Sun\u2026 - Journal of clinical \u2026, 2013 - ascopubs.org"
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 414
+                }
+            }
+        },
+        {
+            "position": 76,
+            "title": "Encapsulating highly catalytically active metal nanoclusters inside porous organic cages",
+            "snippet": "\u2026 from the corresponding author upon reasonable request. \u2026 All authors contributed extensively to this work. XY conducted \u2026 QX wrote the manuscript with input from the other authors. \u2026",
+            "publication_info": {
+                "summary": "X Yang, JK Sun, M Kitta, H Pang, Q Xu - Nature Catalysis, 2018 - nature.com",
                 "authors": [
                     {
-                        "name": "K He",
-                        "author_id": "DhtAFkwAAAAJ"
+                        "name": "X Yang",
+                        "author_id": "lz5xK-sAAAAJ"
                     },
                     {
-                        "name": "J Sun",
-                        "author_id": "ALVSZAYAAAAJ"
+                        "name": "JK Sun",
+                        "author_id": "WqhNZdIAAAAJ"
+                    },
+                    {
+                        "name": "H Pang",
+                        "author_id": "lnP5RHgAAAAJ"
                     }
                 ]
             },
             "inline_links": {
                 "cited_by": {
-                    "total": 267
+                    "total": 412
+                }
+            }
+        },
+        {
+            "position": 25,
+            "title": "Facile Synthesis of Blocky SiOx/C with Graphite\u2010Like Structure for High\u2010Performance Lithium\u2010Ion Battery Anodes",
+            "snippet": "SiO x \u2010containing graphite composites have aroused great interests as the most promising alternatives for practical application in high\u2010performance lithium\u2010ion batteries. However, \u2026",
+            "publication_info": {
+                "summary": "Q Xu, JK Sun, YX Yin, YG Guo - Advanced Functional Materials, 2018 - Wiley Online Library",
+                "authors": [
+                    {
+                        "name": "YG Guo",
+                        "author_id": "mKiAYMQAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 395
+                }
+            }
+        },
+        {
+            "position": 88,
+            "title": "Long-term increased grain yield and soil fertility from intercropping",
+            "snippet": "\u2026 The custom code generated for this study is available in the Supplementary Information and from the corresponding author upon request. \u2026 Jian-Hao Sun View author publications \u2026",
+            "publication_info": {
+                "summary": "XF Li, ZG Wang, XG Bao, JH Sun, SC Yang\u2026 - Nature \u2026, 2021 - nature.com"
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 359
                 }
             }
         },
         {
             "position": 2,
-            "title": "Image completion approaches using the statistics of similar patches",
-            "snippet": "Image completion involves filling missing parts in images. In this paper we address this problem through novel statistics of similar patches. We observe that if we match similar patches \u2026",
+            "title": "Distribution of lymphoid neoplasms in China: analysis of 4,638 cases according to the World Health Organization classification",
+            "snippet": "To estimate the distribution of lymphoid neoplasms in China, we conducted a comprehensive analysis, based on subtype, age, sex, and lesion, of primary and resected biopsy \u2026",
             "publication_info": {
-                "summary": "K He, J Sun - IEEE transactions on pattern analysis and \u2026, 2014 - ieeexplore.ieee.org",
+                "summary": "J Sun, Q Yang, Z Lu, M He, L Gao, M Zhu\u2026 - American journal of \u2026, 2012 - academic.oup.com"
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 346
+                }
+            }
+        },
+        {
+            "position": 34,
+            "title": "Catalysis chemistry of dimethyl ether synthesis",
+            "snippet": "\u2026 The authors indicated that catalytic behavior of the MTD process is strongly dependent on the textural properties, degree of crystallinity, and total amount of acid sites of Al 2 O 3 . The \u2026",
+            "publication_info": {
+                "summary": "J Sun, G Yang, Y Yoneyama, N Tsubaki - ACS Catalysis, 2014 - ACS Publications",
                 "authors": [
                     {
-                        "name": "K He",
-                        "author_id": "DhtAFkwAAAAJ"
+                        "name": "J Sun",
+                        "author_id": "ALVSZAYAAAAJ"
+                    },
+                    {
+                        "name": "G Yang",
+                        "author_id": "tKEa3VcAAAAJ"
+                    },
+                    {
+                        "name": "N Tsubaki",
+                        "author_id": "IqNO9f4AAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 318
+                }
+            }
+        },
+        {
+            "position": 24,
+            "title": "The application of rapid prototyping in prosthodontics",
+            "snippet": "Dentists have used rapid prototyping (RP) techniques in the fields of oral maxillofacial surgery simulation and implantology. With new research emerging for molding materials and the \u2026",
+            "publication_info": {
+                "summary": "J Sun, FQ Zhang - Journal of Prosthodontics: Implant, Esthetic \u2026, 2012 - Wiley Online Library"
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 312
+                }
+            }
+        },
+        {
+            "position": 23,
+            "title": "SiOx Encapsulated in Graphene Bubble Film: An Ultrastable Li\u2010Ion Battery Anode",
+            "snippet": "SiO x is proposed as one of the most promising anodes for Li\u2010ion batteries (LIBs) for its advantageous capacity and stable Li uptake/release electrochemistry, yet its practical application \u2026",
+            "publication_info": {
+                "summary": "Q Xu, JK Sun, ZL Yu, YX Yin, S Xin, SH Yu\u2026 - Advanced \u2026, 2018 - Wiley Online Library",
+                "authors": [
+                    {
+                        "name": "ZL Yu",
+                        "author_id": "tQ8qcNkAAAAJ"
+                    },
+                    {
+                        "name": "S Xin",
+                        "author_id": "689pq1YAAAAJ"
+                    },
+                    {
+                        "name": "SH Yu",
+                        "author_id": "pcQ8ebEAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 302
+                }
+            }
+        },
+        {
+            "position": 56,
+            "title": "Global patterns and substrate\u2010based mechanisms of the terrestrial nitrogen cycle",
+            "snippet": "\u2026 This review was conceived at a workshop and all authors participated in the subsequent discussions and \u2026 All authors provided input to the drafting and final version of the manuscript. \u2026",
+            "publication_info": {
+                "summary": "\u2026, P Kardol, L Liu, Y Luo, L Rustad, J Sun\u2026 - Ecology \u2026, 2016 - Wiley Online Library",
+                "authors": [
+                    {
+                        "name": "P Kardol",
+                        "author_id": "u8xnOj4AAAAJ"
+                    },
+                    {
+                        "name": "L Liu",
+                        "author_id": "qsol3xgAAAAJ"
+                    },
+                    {
+                        "name": "Y Luo",
+                        "author_id": "tPI9GakAAAAJ"
+                    },
+                    {
+                        "name": "L Rustad",
+                        "author_id": "51ZVdHYAAAAJ"
                     },
                     {
                         "name": "J Sun",
@@ -340,26 +496,433 @@
             },
             "inline_links": {
                 "cited_by": {
-                    "total": 206
+                    "total": 290
                 }
             }
         },
         {
-            "position": 7,
-            "title": "Computing nearest-neighbor fields via propagation-assisted kd-trees",
-            "snippet": "\u2026 The PM and CSH codes are from the authors\u2019 websites [25, 9], both essentially in C++. All algorithms are run on a PC with an Intel Core i7 3.0GHz CPU and 8GB RAM. Here we com\u2026",
+            "position": 11,
+            "title": "GPUMD: A package for constructing accurate machine-learned potentials and performing highly efficient atomistic simulations",
+            "snippet": "We present our latest advancements of machine-learned potentials (MLPs) based on the neuroevolution potential (NEP) framework introduced in Fan et al.[Phys. Rev. B 104, 104309 (\u2026",
             "publication_info": {
-                "summary": "K He, J Sun - 2012 IEEE Conference on Computer Vision and \u2026, 2012 - ieeexplore.ieee.org",
+                "summary": "\u2026, J Liu, H Dong, J Wu, Y Chen, Z Zhong, J Sun\u2026 - The Journal of \u2026, 2022 - pubs.aip.org",
                 "authors": [
                     {
-                        "name": "K He",
-                        "author_id": "DhtAFkwAAAAJ"
+                        "name": "H Dong",
+                        "author_id": "WOx-S_QAAAAJ"
+                    },
+                    {
+                        "name": "J Wu",
+                        "author_id": "X0YW_tYAAAAJ"
+                    },
+                    {
+                        "name": "Y Chen",
+                        "author_id": "AurWQNkAAAAJ"
+                    },
+                    {
+                        "name": "J Sun",
+                        "author_id": "nYzR4oAAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 286
+                }
+            }
+        },
+        {
+            "position": 96,
+            "title": "Fermi level pinning dependent 2D semiconductor devices: challenges and prospects",
+            "snippet": "\u2026 That is, the author claimed that MIGS is mainly contributed to FLP in pristine TMDs. [ 42 ] More importantly, with the help of scanning tunneling microscopy (STM), subsurface metal-like \u2026",
+            "publication_info": {
+                "summary": "X Liu, MS Choi, E Hwang, WJ Yoo, J Sun - Advanced Materials, 2022 - Wiley Online Library",
+                "authors": [
+                    {
+                        "name": "X Liu",
+                        "author_id": "AjbFo70AAAAJ"
+                    },
+                    {
+                        "name": "MS Choi",
+                        "author_id": "4_eFgSoAAAAJ"
+                    },
+                    {
+                        "name": "E Hwang",
+                        "author_id": "OPNisU0AAAAJ"
+                    },
+                    {
+                        "name": "WJ Yoo",
+                        "author_id": "ehC0V5sAAAAJ"
                     },
                     {
                         "name": "J Sun",
                         "author_id": "ALVSZAYAAAAJ"
                     }
                 ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 279
+                }
+            }
+        },
+        {
+            "position": 53,
+            "title": "Efficient Acid\u2013Base Bifunctional Catalysts for the Fixation of CO2 with Epoxides under Metal\u2010 and Solvent\u2010Free Conditions",
+            "snippet": "A series of acid\u2013base bifunctional catalysts (ABBCs) that contain one or two Br\u00f8nsted acidic sites in the cationic part and a Lewis\u2010basic site in the anionic part are used as efficient \u2026",
+            "publication_info": {
+                "summary": "J Sun, L Han, W Cheng, J Wang, X Zhang\u2026 - \u2026, 2011 - Wiley Online Library",
+                "authors": [
+                    {
+                        "name": "J Sun",
+                        "author_id": "huX_NSUAAAAJ"
+                    },
+                    {
+                        "name": "J Wang",
+                        "author_id": "n4HcV5oAAAAJ"
+                    },
+                    {
+                        "name": "X Zhang",
+                        "author_id": "2KThvxAAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 271
+                }
+            }
+        },
+        {
+            "position": 10,
+            "title": "Toward homogenization of heterogeneous metal nanoparticle catalysts with enhanced catalytic performance: soluble porous organic cage as a stabilizer and \u2026",
+            "snippet": "Organic molecular cage (CC3-R) with intrinsically porous skeleton is used as a support for immobilizing Rh nanoparticles (NPs) in an ultrasmall size of \u223c1.1 nm for the first time. The \u2026",
+            "publication_info": {
+                "summary": "JK Sun, WW Zhan, T Akita, Q Xu - Journal of the American \u2026, 2015 - ACS Publications",
+                "authors": [
+                    {
+                        "name": "JK Sun",
+                        "author_id": "WqhNZdIAAAAJ"
+                    },
+                    {
+                        "name": "T Akita",
+                        "author_id": "l8p5GS4AAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 270
+                }
+            }
+        },
+        {
+            "position": 40,
+            "title": "Reconsidering the efficiency of grazing exclusion using fences on the Tibetan Plateau",
+            "snippet": "Grazing exclusion using fences is a key policy being applied by the Chinese government to rehabilitate degraded grasslands on the Tibetan Plateau (TP) and elsewhere. However, \u2026",
+            "publication_info": {
+                "summary": "J Sun, M Liu, B Fu, D Kemp, W Zhao, G Liu, G Han\u2026 - Science Bulletin, 2020 - Elsevier",
+                "authors": [
+                    {
+                        "name": "J Sun",
+                        "author_id": "ALVSZAYAAAAJ"
+                    },
+                    {
+                        "name": "D Kemp",
+                        "author_id": "r7m8dKQAAAAJ"
+                    },
+                    {
+                        "name": "W Zhao",
+                        "author_id": "zkqCwlsAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 268
+                }
+            }
+        },
+        {
+            "position": 41,
+            "title": "Reconsidering the efficiency of grazing exclusion using fences on the Tibetan Plateau",
+            "snippet": "Grazing exclusion using fences is a key policy being applied by the Chinese government to rehabilitate degraded grasslands on the Tibetan Plateau (TP) and elsewhere. However, \u2026",
+            "publication_info": {
+                "summary": "J Sun, M Liu, B Fu, D Kemp, W Zhao, G Liu, G Han\u2026 - Science Bulletin, 2020 - Elsevier",
+                "authors": [
+                    {
+                        "name": "J Sun",
+                        "author_id": "ALVSZAYAAAAJ"
+                    },
+                    {
+                        "name": "D Kemp",
+                        "author_id": "r7m8dKQAAAAJ"
+                    },
+                    {
+                        "name": "W Zhao",
+                        "author_id": "zkqCwlsAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 268
+                }
+            }
+        },
+        {
+            "position": 63,
+            "title": "Mitochondria in sepsis-induced AKI",
+            "snippet": "AKI is a common clinical condition associated with the risk of developing CKD and ESKD. Sepsis is the leading cause of AKI in the intensive care unit (ICU) and accounts for nearly half \u2026",
+            "publication_info": {
+                "summary": "J Sun, J Zhang, J Tian, GM Virz\u00ec\u2026 - Journal of the \u2026, 2019 - journals.lww.com",
+                "authors": [
+                    {
+                        "name": "GM Virz\u00ec",
+                        "author_id": "fLdh-CYAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 237
+                }
+            }
+        },
+        {
+            "position": 98,
+            "title": "Paternalistic leadership in four East Asian societies: Generalizability and cultural differences of the triad model",
+            "snippet": "Paternalistic leadership has been claimed to be one dominant leadership style in Asia. However, research failed to assess its comparability and applicability across East Asian contexts. \u2026",
+            "publication_info": {
+                "summary": "\u2026, S Yoneyama, D Shim, JM Sun\u2026 - Journal of Cross \u2026, 2014 - journals.sagepub.com",
+                "authors": [
+                    {
+                        "name": "JM Sun",
+                        "author_id": "DY0BQecAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 231
+                }
+            }
+        },
+        {
+            "position": 36,
+            "title": "DRAMP: a comprehensive data repository of antimicrobial peptides",
+            "snippet": "The growing problem of antibiotic-resistant microorganisms results in an urgent need for substitutes to conventional antibiotics with novel modes of action and effective activities. \u2026",
+            "publication_info": {
+                "summary": "L Fan, J Sun, M Zhou, J Zhou, X Lao, H Zheng, H Xu - Scientific reports, 2016 - nature.com"
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 230
+                }
+            }
+        },
+        {
+            "position": 27,
+            "title": "Phosphonium modification leads to ultrapermeable antibacterial polyamide composite membranes with unreduced thickness",
+            "snippet": "Water transport rate in network membranes is inversely correlated to thickness, thus superior permeance is achievable with ultrathin membranes prepared by complicated methods \u2026",
+            "publication_info": {
+                "summary": "\u2026, WH Zhang, WS Hung, N Wang, J Sun\u2026 - Advanced \u2026, 2020 - Wiley Online Library",
+                "authors": [
+                    {
+                        "name": "WH Zhang",
+                        "author_id": "GslahBIAAAAJ"
+                    },
+                    {
+                        "name": "WS Hung",
+                        "author_id": "6loaWrQAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 223
+                }
+            }
+        },
+        {
+            "position": 77,
+            "title": "Roles of ionic liquids in adjusting nature of ionogels: a mini review",
+            "snippet": "Over the past two decades, the unique features of ionic liquids (ILs) drive their exploration and exploitation in gel field and endow the gels with many excellent properties including \u2026",
+            "publication_info": {
+                "summary": "Z Luo, W Li, J Yan, J Sun - Advanced Functional Materials, 2022 - Wiley Online Library",
+                "authors": [
+                    {
+                        "name": "J Sun",
+                        "author_id": "ALVSZAYAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 212
+                }
+            }
+        },
+        {
+            "position": 93,
+            "title": "GSH and H2O2 Co\u2010Activatable Mitochondria\u2010Targeted Photodynamic Therapy under Normoxia and Hypoxia",
+            "snippet": "Currently, photosensitizers (PSs) that are microenvironment responsive and hypoxia active are scarcely available and urgently desired for antitumor photodynamic therapy (PDT). \u2026",
+            "publication_info": {
+                "summary": "J Sun, K Du, J Diao, X Cai, F Feng\u2026 - Angewandte \u2026, 2020 - Wiley Online Library",
+                "authors": [
+                    {
+                        "name": "J Sun",
+                        "author_id": "ALVSZAYAAAAJ"
+                    },
+                    {
+                        "name": "J Diao",
+                        "author_id": "Cxgyb7EAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 209
+                }
+            }
+        },
+        {
+            "position": 49,
+            "title": "Catalytic Hydrogenation of CO2 to Isoparaffins over Fe-Based Multifunctional Catalysts",
+            "snippet": "\u2026 More by Jian Sun \u2026 Article keywords are supplied by the authors and highlight key terms and topics of \u2026 All of the authors participated in the analysis and discussion of the experimental \u2026",
+            "publication_info": {
+                "summary": "\u2026, Q Ge, Z Wen, X Ji, C Fang, J Zhang, H Xu, J Sun - ACS \u2026, 2018 - ACS Publications",
+                "authors": [
+                    {
+                        "name": "J Sun",
+                        "author_id": "ALVSZAYAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 207
+                }
+            }
+        },
+        {
+            "position": 29,
+            "title": "Distribution and clinical correlates of viral and host genotypes in C hinese patients with chronic hepatitis C virus infection",
+            "snippet": "Background and Aim Chronic hepatitis C virus ( HCV ) infection is relatively frequent in C hina. This study investigated the clinical, demographic, and viral and host genetic \u2026",
+            "publication_info": {
+                "summary": "\u2026, Z Gao, L Wang, J Wei, J Jiang, Y Sun\u2026 - Journal of \u2026, 2014 - Wiley Online Library"
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 202
+                }
+            }
+        },
+        {
+            "position": 90,
+            "title": "Gut-liver crosstalk in sepsis-induced liver injury",
+            "snippet": "Sepsis is characterized by a dysregulated immune response to infection leading to life-threatening organ dysfunction. Sepsis-induced liver injury is recognized as a powerful \u2026",
+            "publication_info": {
+                "summary": "J Sun, J Zhang, X Wang, F Ji, C Ronco, J Tian, Y Yin - Critical Care, 2020 - Springer",
+                "authors": [
+                    {
+                        "name": "C Ronco",
+                        "author_id": "WUD9SgcAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 202
+                }
+            }
+        },
+        {
+            "position": 42,
+            "title": "Unsupervised MR-to-CT synthesis using structure-constrained CycleGAN",
+            "snippet": "Synthesizing a CT image from an available MR image has recently emerged as a key goal in radiotherapy treatment planning for cancer patients. CycleGANs have achieved promising \u2026",
+            "publication_info": {
+                "summary": "H Yang, J Sun, A Carass, C Zhao, J Lee\u2026 - IEEE transactions on \u2026, 2020 - ieeexplore.ieee.org",
+                "authors": [
+                    {
+                        "name": "H Yang",
+                        "author_id": "LX_RpsMAAAAJ"
+                    },
+                    {
+                        "name": "J Sun",
+                        "author_id": "SSgNWOMAAAAJ"
+                    },
+                    {
+                        "name": "A Carass",
+                        "author_id": "8kZ64yEAAAAJ"
+                    },
+                    {
+                        "name": "C Zhao",
+                        "author_id": "CdzhxtYAAAAJ"
+                    },
+                    {
+                        "name": "J Lee",
+                        "author_id": "_TLATDEAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 199
+                }
+            }
+        },
+        {
+            "position": 100,
+            "title": "Predicting the distribution of Stipa purpurea across the Tibetan Plateau via the MaxEnt model",
+            "snippet": "\u2026 Jian Sun \u2026 the current study available from the corresponding author on reasonable request. \u2026 Sun J, Qin XJ, Yang J. The response of vegetation dynamics of the different alpine grassland \u2026",
+            "publication_info": {
+                "summary": "B Ma, J Sun - BMC ecology, 2018 - Springer",
+                "authors": [
+                    {
+                        "name": "J Sun",
+                        "author_id": "ALVSZAYAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 194
+                }
+            }
+        },
+        {
+            "position": 32,
+            "title": "High-aspect-ratio copper via filling used for three-dimensional chip stacking",
+            "snippet": "Through-chip electrodes with high aspect ratios can offer the shortest interconnection and reduce signal delay. Copper has been selected as that electrode material because of its good \u2026",
+            "publication_info": {
+                "summary": "JJ Sun, K Kondo, T Okamura, SJ Oh\u2026 - Journal of The \u2026, 2003 - iopscience.iop.org"
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 192
+                }
+            }
+        },
+        {
+            "position": 7,
+            "title": "High expression of IL-17 and IL-17RE associate with poor prognosis of hepatocellular carcinoma",
+            "snippet": "Background Hepatocellular carcinoma (HCC) is a typical malignancy in a background of chronic inflammation. Th17 cells (a major source of IL-17) constitute crucial components of \u2026",
+            "publication_info": {
+                "summary": "R Liao, J Sun, H Wu, Y Yi, JX Wang, HW He\u2026 - Journal of experimental \u2026, 2013 - Springer"
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 190
+                }
+            }
+        },
+        {
+            "position": 47,
+            "title": "CXCR6 upregulation contributes to a proinflammatory tumor microenvironment that drives metastasis and poor patient outcomes in hepatocellular carcinoma",
+            "snippet": "CXC chemokines and their cognate receptors have been implicated widely in cancer pathogenesis. In this study, we report a critical causal relationship between CXCR6 expression \u2026",
+            "publication_info": {
+                "summary": "Q Gao, YJ Zhao, XY Wang, SJ Qiu, YH Shi, J Sun\u2026 - Cancer \u2026, 2012 - aacrjournals.org"
             },
             "inline_links": {
                 "cited_by": {
@@ -368,20 +931,200 @@
             }
         },
         {
-            "position": 4,
-            "title": "Rectangling panoramic images via warping",
-            "snippet": "\u2026 The authors would like to thank Jiangyu Liu for making the video, Fang Wen for fruitful discussions, the volunteers for participating in the user study, and all anonymous reviewers for \u2026",
+            "position": 83,
+            "title": "S-Chiral Sulfinamides as Highly Enantioselective Organocatalysts",
+            "snippet": "\u2026 In papers with more than one author, the asterisk indicates the name of the author to whom \u2026 Xiang-Wei Liu, Chao Wang, Yan Yan, Yong-Qiang Wang, and Jian Sun . An Organocatalyst \u2026",
             "publication_info": {
-                "summary": "K He, H Chang, J Sun - ACM Transactions on Graphics (TOG), 2013 - dl.acm.org",
+                "summary": "D Pei, Z Wang, S Wei, Y Zhang, J Sun - Organic Letters, 2006 - ACS Publications"
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 182
+                }
+            }
+        },
+        {
+            "position": 75,
+            "title": "Directly converting carbon dioxide to linear \u03b1-olefins on bio-promoted catalysts",
+            "snippet": "\u2026 All other relevant source data are available from the corresponding author upon reasonable \u2026 All the authors contributed to analysis and discussion on the data. QG, JS, and HX \u2026",
+            "publication_info": {
+                "summary": "L Guo, J Sun, X Ji, J Wei, Z Wen, R Yao\u2026 - Communications \u2026, 2018 - nature.com",
                 "authors": [
                     {
-                        "name": "K He",
-                        "author_id": "DhtAFkwAAAAJ"
+                        "name": "L Guo",
+                        "author_id": "q_lgO14AAAAJ"
                     },
                     {
-                        "name": "H Chang",
-                        "author_id": "eZQNcvcAAAAJ"
+                        "name": "J Sun",
+                        "author_id": "ALVSZAYAAAAJ"
                     },
+                    {
+                        "name": "J Wei",
+                        "author_id": "PWkrO10AAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 181
+                }
+            }
+        },
+        {
+            "position": 67,
+            "title": "A Highly Enantioselective Lewis Basic Organocatalyst for Reduction of N-Aryl Imines with Unprecedented Substrate Spectrum",
+            "snippet": "\u2026 In papers with more than one author, the asterisk indicates the name of the author to whom \u2026 Xiang-Wei Liu, Chao Wang, Yan Yan, Yong-Qiang Wang, and Jian Sun . An Organocatalyst \u2026",
+            "publication_info": {
+                "summary": "Z Wang, X Ye, S Wei, P Wu, A Zhang, J Sun - Organic Letters, 2006 - ACS Publications"
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 179
+                }
+            }
+        },
+        {
+            "position": 80,
+            "title": "miR-23a Promotes the Transition from Indolent to Invasive Colorectal Cancer",
+            "snippet": "Colorectal cancer is a classic example of a tumor that progresses through multiple distinct stages in its evolution. To understand the mechanisms regulating the transition from indolent \u2026",
+            "publication_info": {
+                "summary": "S Jahid, J Sun, RA Edwards, D Dizon\u2026 - Cancer \u2026, 2012 - aacrjournals.org",
+                "authors": [
+                    {
+                        "name": "RA Edwards",
+                        "author_id": "P8xLsFoAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 177
+                }
+            }
+        },
+        {
+            "position": 12,
+            "title": "Isoflurane inhibits transmitter release and the presynaptic action potential",
+            "publication_info": {
+                "summary": "XS Wu, JY Sun, AS Evers, M Crowder, LG Wu - Anesthesiology, 2004 - LWW",
+                "authors": [
+                    {
+                        "name": "JY Sun",
+                        "author_id": "aJ2NiH8AAAAJ"
+                    },
+                    {
+                        "name": "AS Evers",
+                        "author_id": "JJOAjoUAAAAJ"
+                    },
+                    {
+                        "name": "M Crowder",
+                        "author_id": "di1NoYIAAAAJ"
+                    },
+                    {
+                        "name": "LG Wu",
+                        "author_id": "xUZKjPoAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 176
+                }
+            }
+        },
+        {
+            "position": 21,
+            "title": "Flexible Viologen\u2010Based Porous Framework Showing X\u2010ray Induced Photochromism with Single\u2010Crystal\u2010to\u2010Single\u2010Crystal Transformation",
+            "snippet": "A viologen\u2010based Borromean entangled porous framework was found to be sensitive to both Cu K\u03b1 and Mo K\u03b1 X\u2010ray sources, showing rapid photochromic response and recovery \u2026",
+            "publication_info": {
+                "summary": "C Chen, JK Sun, YJ Zhang, XD Yang\u2026 - Angewandte \u2026, 2017 - Wiley Online Library",
+                "authors": [
+                    {
+                        "name": "JK Sun",
+                        "author_id": "WqhNZdIAAAAJ"
+                    },
+                    {
+                        "name": "YJ Zhang",
+                        "author_id": "R4OuQ2YAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 176
+                }
+            }
+        },
+        {
+            "position": 85,
+            "title": "Novel spirocyclic phosphazene-based epoxy resin for halogen-free fire resistance: synthesis, curing behaviors, and flammability characteristics",
+            "snippet": "\u2026 Article keywords are supplied by the authors and highlight key terms and topics of the paper\u2026 Jian Sun - State Key Laboratory of Organic\u2212Inorganic Composite Materials, School of \u2026",
+            "publication_info": {
+                "summary": "J Sun, X Wang, D Wu - ACS applied materials & interfaces, 2012 - ACS Publications"
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 168
+                }
+            }
+        },
+        {
+            "position": 50,
+            "title": "Intermediate bosonic metallic state in the superconductor-insulator transition",
+            "snippet": "\u2026 Liu, JW, JX, JMX, and JMV wrote the manuscript, with input from all authors. Competing interests: The authors declare no competing interests. Data and materials availability: All \u2026",
+            "publication_info": {
+                "summary": "C Yang, Y Liu, Y Wang, L Feng, Q He, J Sun, Y Tang\u2026 - Science, 2019 - science.org",
+                "authors": [
+                    {
+                        "name": "C Yang",
+                        "author_id": "r-NDHyoAAAAJ"
+                    },
+                    {
+                        "name": "Y Liu",
+                        "author_id": "KlsY_yIAAAAJ"
+                    },
+                    {
+                        "name": "Y Wang",
+                        "author_id": "ybomGIIAAAAJ"
+                    },
+                    {
+                        "name": "Y Tang",
+                        "author_id": "XoQx_GcAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 166
+                }
+            }
+        },
+        {
+            "position": 66,
+            "title": "Assessment of plant growth promoting and abiotic stress tolerance properties of wheat endophytic fungi",
+            "snippet": "\u2026 The authors declare that they have no conflicts of interest. \u2026 The data used to support the findings of this study are available from the corresponding author upon request. \u2026",
+            "publication_info": {
+                "summary": "FA Ripa, W Cao, S Tong, J Sun - BioMed Research \u2026, 2019 - Wiley Online Library",
+                "authors": [
+                    {
+                        "name": "FA Ripa",
+                        "author_id": "31pDI1YAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 166
+                }
+            }
+        },
+        {
+            "position": 38,
+            "title": "Room temperature detection of individual molecular physisorption using suspended bilayer graphene",
+            "snippet": "\u2026 All authors discussed the results and commented on the \u2026 data related to this paper may be requested from the authors. \u2026 data related to this paper may be requested from the authors. \u2026",
+            "publication_info": {
+                "summary": "J Sun, M Muruganathan, H Mizuta - Science advances, 2016 - science.org",
+                "authors": [
                     {
                         "name": "J Sun",
                         "author_id": "ALVSZAYAAAAJ"
@@ -390,125 +1133,911 @@
             },
             "inline_links": {
                 "cited_by": {
-                    "total": 126
+                    "total": 163
                 }
             }
         },
         {
-            "position": 20,
-            "title": "Are labels necessary for neural architecture search?",
-            "snippet": "Existing neural network architectures in computer vision\u2014whether designed by humans or by machines\u2014were typically found using both images and their associated labels. In this \u2026",
+            "position": 39,
+            "title": "Fluorescent and Colorimetric Dual-Readout Assay for Inorganic Pyrophosphatase with Cu2+-Triggered Oxidation of o-Phenylenediamine",
+            "snippet": "We demonstrate a rationally designed fluorescent and colorimetric dual-readout strategy for the highly sensitive, quantitative determination of inorganic pyrophosphatase (PPase) \u2026",
             "publication_info": {
-                "summary": "C Liu, P Doll\u00e1r, K He, R Girshick, A Yuille\u2026 - European Conference on \u2026, 2020 - Springer",
+                "summary": "J Sun, B Wang, X Zhao, ZJ Li, X Yang - Analytical chemistry, 2016 - ACS Publications",
                 "authors": [
                     {
-                        "name": "C Liu",
-                        "author_id": "qvRsU00AAAAJ"
-                    },
-                    {
-                        "name": "P Doll\u00e1r",
-                        "author_id": "a8Y2OJMAAAAJ"
-                    },
-                    {
-                        "name": "K He",
-                        "author_id": "DhtAFkwAAAAJ"
-                    },
-                    {
-                        "name": "R Girshick",
-                        "author_id": "W8VIEZgAAAAJ"
-                    },
-                    {
-                        "name": "A Yuille",
-                        "author_id": "FJ-huxgAAAAJ"
+                        "name": "J Sun",
+                        "author_id": "IrXVdecAAAAJ"
                     }
                 ]
             },
             "inline_links": {
                 "cited_by": {
-                    "total": 103
+                    "total": 157
                 }
             }
         },
         {
-            "position": 18,
-            "title": "Phytofabrication of nanoparticles as novel drugs for anticancer applications",
-            "snippet": "Cancer is one of the foremost causes of death globally and also the major stumbling block of increasing life expectancy. Although the primary treatment of surgical resection, \u2026",
+            "position": 84,
+            "title": "Modified staging classification for pancreatic neuroendocrine tumors on the basis of the American Joint Committee on Cancer and European Neuroendocrine Tumor \u2026",
+            "snippet": "\u2026 The following represents disclosure information provided by authors of this manuscript. All relationships are considered compensated. Relationships are self-held unless noted. \u2026",
             "publication_info": {
-                "summary": "QY Wei, KM He, JL Chen, YM Xu, ATY Lau - Molecules, 2019 - mdpi.com"
+                "summary": "\u2026, M Cives, J Wong, W Wang, J Sun\u2026 - Journal of Clinical \u2026, 2017 - ascopubs.org",
+                "authors": [
+                    {
+                        "name": "J Wong",
+                        "author_id": "Y9NvMA4AAAAJ"
+                    },
+                    {
+                        "name": "W Wang",
+                        "author_id": "suuhuk8AAAAJ"
+                    },
+                    {
+                        "name": "J Sun",
+                        "author_id": "huX_NSUAAAAJ"
+                    }
+                ]
             },
             "inline_links": {
                 "cited_by": {
-                    "total": 65
+                    "total": 157
                 }
             }
         },
         {
             "position": 15,
-            "title": "Polyimide@ ketjenblack composite: a porous organic cathode for fast rechargeable potassium\u2010ion batteries",
-            "snippet": "\u2026 Search for more papers by this author Kaiming He\u2026 The authors thank Dr. J\u00f6rg Pezoldt for the help with FTIR measurement. Open access funding enabled and organized by Projekt DEAL\u2026",
+            "title": "Effect of nanosilica on the properties of polyester\u2010based polyurethane",
+            "snippet": "Polyester\u2010based polyurethanes with embedded nanosilica particles were prepared. The viscosity of polyester resins without and with nanosilica was determined by rheoviscometry. The \u2026",
             "publication_info": {
-                "summary": "C Zhang, Y Xu, K He, Y Dong, H Zhao, L Medenbach\u2026 - Small, 2020 - Wiley Online Library",
+                "summary": "SX Zhou, LM Wu, J Sun\u2026 - Journal of Applied Polymer \u2026, 2003 - Wiley Online Library",
                 "authors": [
                     {
-                        "name": "C Zhang",
-                        "author_id": "HDFfNjEAAAAJ"
-                    },
-                    {
-                        "name": "Y Xu",
-                        "author_id": "0rjWUboAAAAJ"
-                    },
-                    {
-                        "name": "Y Dong",
-                        "author_id": "M_z1zCIAAAAJ"
-                    },
-                    {
-                        "name": "H Zhao",
-                        "author_id": "3RL248MAAAAJ"
+                        "name": "J Sun",
+                        "author_id": "huX_NSUAAAAJ"
                     }
                 ]
             },
             "inline_links": {
                 "cited_by": {
-                    "total": 63
+                    "total": 154
+                }
+            }
+        },
+        {
+            "position": 81,
+            "title": "Input impedance analysis of single-phase PFC converters",
+            "snippet": "\u2026 During the preparation of the current paper, the author came across [10] and [11] which reported similar high-frequency models. In comparing the two approaches, it was found that the \u2026",
+            "publication_info": {
+                "summary": "J Sun - IEEE Transactions on Power Electronics, 2005 - ieeexplore.ieee.org"
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 154
+                }
+            }
+        },
+        {
+            "position": 82,
+            "title": "Asymmetric tunable photonic bandgaps in self\u2010organized 3D nanostructure of polymer\u2010stabilized blue phase I modulated by voltage polarity",
+            "snippet": "Electrically responsive photonic crystals represent one of the most promising intelligent materials for technological applications in optoelectronics. In this research, a polymer\u2010stabilized \u2026",
+            "publication_info": {
+                "summary": "M Wang, C Zou, J Sun, L Zhang, L Wang\u2026 - Advanced Functional \u2026, 2017 - Wiley Online Library",
+                "authors": [
+                    {
+                        "name": "M Wang",
+                        "author_id": "23wYmrgAAAAJ"
+                    },
+                    {
+                        "name": "J Sun",
+                        "author_id": "XI8RIUoAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 152
+                }
+            }
+        },
+        {
+            "position": 16,
+            "title": "Metal-free visible-light-mediated oxidative cross-coupling of thiols with P (O) H compounds using air as the oxidant",
+            "snippet": "Visible light along with 5 mol % of rose bengal catalyzes the direct S\u2013P(O) coupling between thiols and P(O)H compounds in the presence of air as the green oxidant. The protocol is \u2026",
+            "publication_info": {
+                "summary": "JG Sun, H Yang, P Li, B Zhang - Organic Letters, 2016 - ACS Publications",
+                "authors": [
+                    {
+                        "name": "P Li",
+                        "author_id": "vR8jj4YAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 150
+                }
+            }
+        },
+        {
+            "position": 33,
+            "title": "Zwitterion functionalized graphene oxide/polyacrylamide/polyacrylic acid hydrogels with photothermal conversion and antibacterial properties for highly efficient \u2026",
+            "snippet": "In this study, graphene oxide (GO) and polyacrylamide/polyacrylic acid (PAM/PAA) are used to prepare hydrogels with photothermal conversion properties for highly efficient uranium \u2026",
+            "publication_info": {
+                "summary": "H Li, J Sun, S Qin, Y Song, Z Liu, P Yang\u2026 - Advanced Functional \u2026, 2023 - Wiley Online Library"
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 145
+                }
+            }
+        },
+        {
+            "position": 43,
+            "title": "Targeting the microenvironment of vulnerable atherosclerotic plaques: an emerging diagnosis and therapy strategy for atherosclerosis",
+            "snippet": "Atherosclerosis is considered one of the primary causes of cardiovascular diseases (CVDs). Unpredictable rupture of the vulnerable atherosclerotic plaques triggers adverse \u2026",
+            "publication_info": {
+                "summary": "S Zhang, Y Liu, Y Cao, S Zhang, J Sun\u2026 - Advanced \u2026, 2022 - Wiley Online Library",
+                "authors": [
+                    {
+                        "name": "S Zhang",
+                        "author_id": "RsZcMZcAAAAJ"
+                    },
+                    {
+                        "name": "S Zhang",
+                        "author_id": "WHiO4VsAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 145
+                }
+            }
+        },
+        {
+            "position": 55,
+            "title": "Co-transfer of blaNDM-5 and mcr-1 by an IncX3\u2013X4 hybrid plasmid in Escherichia coli",
+            "snippet": "Carbapenem and colistin are the last-resort antibiotics used for treating multidrug-resistant Gram-negative pathogens. Here, we report, for the first time, co-transfer of resistance to both \u2026",
+            "publication_info": {
+                "summary": "J Sun, RS Yang, Q Zhang, Y Feng, LX Fang, J Xia\u2026 - Nature \u2026, 2016 - nature.com",
+                "authors": [
+                    {
+                        "name": "Q Zhang",
+                        "author_id": "SzPIpqgAAAAJ"
+                    },
+                    {
+                        "name": "Y Feng",
+                        "author_id": "MkTB_LgAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 145
+                }
+            }
+        },
+        {
+            "position": 22,
+            "title": "Commensal bacteria\u2010dependent select expression of CXCL 2 contributes to periodontal tissue homeostasis",
+            "snippet": "The oral and intestinal host tissues both carry a heavy microbial burden. Although commensal bacteria contribute to healthy intestinal tissue structure and function, their contribution to \u2026",
+            "publication_info": {
+                "summary": "\u2026, T Abe, L Jin, Y Chang, ZC Jin, JX Sun\u2026 - Cellular \u2026, 2013 - Wiley Online Library",
+                "authors": [
+                    {
+                        "name": "L Jin",
+                        "author_id": "6RF4h2kAAAAJ"
+                    },
+                    {
+                        "name": "Y Chang",
+                        "author_id": "KXZYbmUAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 143
+                }
+            }
+        },
+        {
+            "position": 95,
+            "title": "Intratumoral administration of endostatin plasmid inhibits vascular growth and perfusion in MCa-4 murine mammary carcinomas",
+            "snippet": "Endostatin, a fragment of the COOH-terminal domain of mouse collagen XVIII is a recently demonstrated endogenous inhibitor of tumor angiogenesis and endothelial cell growth. \u2026",
+            "publication_info": {
+                "summary": "I Ding, JZ Sun, B Fenton, WM Liu, P Kimsely\u2026 - Cancer \u2026, 2001 - aacrjournals.org"
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 142
+                }
+            }
+        },
+        {
+            "position": 62,
+            "title": "Dysregulation of histone acetyltransferases and deacetylases in cardiovascular diseases",
+            "snippet": "Cardiovascular disease (CVD) remains a leading cause of mortality worldwide despite advances in its prevention and management. A comprehensive understanding of factors which \u2026",
+            "publication_info": {
+                "summary": "\u2026, X Miao, Y Liu, F Li, Q Liu, J Sun\u2026 - \u2026 medicine and cellular \u2026, 2014 - Wiley Online Library"
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 139
+                }
+            }
+        },
+        {
+            "position": 51,
+            "title": "Emergence of NDM-5-and MCR-1-producing Escherichia coli clones ST648 and ST156 from a single muscovy duck (Cairina moschata)",
+            "snippet": "Two Escherichia coli clones (sequence type 648 [ST648] and ST156) that coproduce NDM-5 and MCR-1 were detected from a single fowl in China. The bla NDM-5 gene was found on \u2026",
+            "publication_info": {
+                "summary": "\u2026, J Chen, LX Fang, J Xia, XP Liao, J Sun\u2026 - Antimicrobial agents \u2026, 2016 - journals.asm.org"
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 137
+                }
+            }
+        },
+        {
+            "position": 31,
+            "title": "General synthetic route toward highly dispersed metal clusters enabled by poly (ionic liquid) s",
+            "snippet": "The ability to synthesize a broad spectrum of metal clusters (MCs) with their size controllable on a subnanometer scale presents an enticing prospect for exploring nanosize-dependent \u2026",
+            "publication_info": {
+                "summary": "JK Sun, Z Kochovski, WY Zhang, H Kirmse\u2026 - Journal of the \u2026, 2017 - ACS Publications",
+                "authors": [
+                    {
+                        "name": "JK Sun",
+                        "author_id": "WqhNZdIAAAAJ"
+                    },
+                    {
+                        "name": "Z Kochovski",
+                        "author_id": "XidiyfkAAAAJ"
+                    },
+                    {
+                        "name": "H Kirmse",
+                        "author_id": "VOHCWBoAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 136
+                }
+            }
+        },
+        {
+            "position": 35,
+            "title": "Phytochemicals and Antioxidant Capacity from Nypa fruticans Wurmb. Fruit",
+            "snippet": "\u2026 Previously, many authors have reported a positive correlation between total phenolics content and antioxidant actity [16, 34]. Liu et al. [16] reported negative correlation between \u2026",
+            "publication_info": {
+                "summary": "\u2026, B Yang, KW Kong, HE Khoo, J Sun\u2026 - Evidence\u2010Based \u2026, 2013 - Wiley Online Library",
+                "authors": [
+                    {
+                        "name": "KW Kong",
+                        "author_id": "N1YM14wAAAAJ"
+                    },
+                    {
+                        "name": "HE Khoo",
+                        "author_id": "vPkVgIYAAAAJ"
+                    },
+                    {
+                        "name": "J Sun",
+                        "author_id": "HmDBp2QAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 134
+                }
+            }
+        },
+        {
+            "position": 46,
+            "title": "Atomically Dispersed High\u2010Density Al\u2013N4 Sites in Porous Carbon for Efficient Photodriven CO2 Cycloaddition",
+            "snippet": "\u2026 Search for more papers by this author Jian Sun\u2026 The data that support the findings of this study are available from the corresponding author upon reasonable request. \u2026",
+            "publication_info": {
+                "summary": "\u2026, S Dai, J Zhao, K Jiang, Q Yang, J Sun\u2026 - Advanced \u2026, 2021 - Wiley Online Library",
+                "authors": [
+                    {
+                        "name": "S Dai",
+                        "author_id": "sWJA8psAAAAJ"
+                    },
+                    {
+                        "name": "K Jiang",
+                        "author_id": "6gDc5-EAAAAJ"
+                    },
+                    {
+                        "name": "Q Yang",
+                        "author_id": "qp46RKkAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 133
+                }
+            }
+        },
+        {
+            "position": 89,
+            "title": "Toripalimab combined with lenvatinib and GEMOX is a promising regimen as first-line treatment for advanced intrahepatic cholangiocarcinoma: a single-center, single \u2026",
+            "snippet": "\u2026 present study can be obtained from the corresponding author with a reasonable request. \u2026 Each author has read and approved the paper. All authors are eligible for the data of the study \u2026",
+            "publication_info": {
+                "summary": "GM Shi, XY Huang, D Wu, HC Sun, F Liang\u2026 - Signal transduction and \u2026, 2023 - nature.com",
+                "authors": [
+                    {
+                        "name": "GM Shi",
+                        "author_id": "3H34J-wAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 127
+                }
+            }
+        },
+        {
+            "position": 20,
+            "title": "Analysis of knowledge-transfer mechanisms in construction project cooperation networks",
+            "snippet": "\u2026 The authors applied structural equation modeling (SEM) to test the hypotheses based on a questionnaire survey data set of 210 workers from Chinese construction companies. The \u2026",
+            "publication_info": {
+                "summary": "J Sun, X Ren, CJ Anumba - Journal of Management in Engineering, 2019 - ascelibrary.org",
+                "authors": [
+                    {
+                        "name": "CJ Anumba",
+                        "author_id": "zcFH8AwAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 123
+                }
+            }
+        },
+        {
+            "position": 52,
+            "title": "Temporal dynamics of nutrient uptake by neighbouring plant species: evidence from intercropping",
+            "snippet": "The productivity of species\u2010diverse plant assemblages strongly depends on the temporal dynamics of nutrient uptake by competing neighbouring plants. Our understanding, however, \u2026",
+            "publication_info": {
+                "summary": "WP Zhang, GC Liu, JH Sun, D Fornara\u2026 - Functional \u2026, 2017 - Wiley Online Library",
+                "authors": [
+                    {
+                        "name": "WP Zhang",
+                        "author_id": "KaOFSVcAAAAJ"
+                    },
+                    {
+                        "name": "D Fornara",
+                        "author_id": "JF8NcSoAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 122
+                }
+            }
+        },
+        {
+            "position": 70,
+            "title": "Water and heat availability are drivers of the aboveground plant carbon accumulation rate in alpine grasslands on the Tibetan Plateau",
+            "snippet": "\u2026 The authors thank Benjamin Poulter for the constructive comments on our study. This \u2026 Jian Sun also thanks his son and wife for their support during his visit to Rutgers University. \u2026",
+            "publication_info": {
+                "summary": "J Sun, TC Zhou, M Liu, YC Chen, GH Liu\u2026 - Global Ecology and \u2026, 2020 - Wiley Online Library",
+                "authors": [
+                    {
+                        "name": "J Sun",
+                        "author_id": "ALVSZAYAAAAJ"
+                    },
+                    {
+                        "name": "M Liu",
+                        "author_id": "22ZOlLwAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 121
+                }
+            }
+        },
+        {
+            "position": 87,
+            "title": "Hydrogen peroxide and nitric oxide mediate K+/Na+ homeostasis and antioxidant defense in NaCl-stressed callus cells of two contrasting poplars",
+            "snippet": "\u2026 Although the molecular basis underlying species-difference in signals production needs further investigations, experimental results in this study would lead authors to suggest a new \u2026",
+            "publication_info": {
+                "summary": "J Sun, L Li, M Liu, M Wang, M Ding, S Deng\u2026 - Plant Cell, Tissue and \u2026, 2010 - Springer",
+                "authors": [
+                    {
+                        "name": "J Sun",
+                        "author_id": "ALVSZAYAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 120
+                }
+            }
+        },
+        {
+            "position": 58,
+            "title": "Highly sensitive real-time assay of inorganic pyrophosphatase activity based on the fluorescent gold nanoclusters",
+            "snippet": "On the basis of the competition assay approach and fluorescent 11-mercaptoundecanoic acid-capped AuNCs (AuNCs@11-MUA) with unique optical properties, a convenient, reliable \u2026",
+            "publication_info": {
+                "summary": "J Sun, F Yang, D Zhao, X Yang - Analytical chemistry, 2014 - ACS Publications",
+                "authors": [
+                    {
+                        "name": "J Sun",
+                        "author_id": "IrXVdecAAAAJ"
+                    },
+                    {
+                        "name": "F Yang",
+                        "author_id": "qMVUxNYAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 118
+                }
+            }
+        },
+        {
+            "position": 3,
+            "title": "The 104\u2010week efficacy and safety of telbivudine\u2010based optimization strategy in chronic hepatitis B patients: a randomized, controlled study",
+            "snippet": "\u2026 The other authors declare that they have no conflicts of \u2026 All authors had full access to the final version of the report and \u2026 Sun J, Hou J. Management of chronic hepatitis B: experience from \u2026",
+            "publication_info": {
+                "summary": "J Sun, Q Xie, D Tan, Q Ning, J Niu, X Bai, R Fan\u2026 - \u2026, 2014 - Wiley Online Library"
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 114
+                }
+            }
+        },
+        {
+            "position": 57,
+            "title": "Fluorescence Immunoassay Based on the Alkaline Phosphatase Triggered in Situ Fluorogenic Reaction of o-Phenylenediamine and Ascorbic Acid",
+            "snippet": "Inspired by the special reducing capability of ascorbic acid (AA), ascorbic acid 2-phosphate (AA2P) has been extensively utilized as a substrate in current alkaline phosphatase (ALP) \u2026",
+            "publication_info": {
+                "summary": "D Zhao, J Li, C Peng, S Zhu, J Sun, X Yang - Analytical Chemistry, 2019 - ACS Publications",
+                "authors": [
+                    {
+                        "name": "J Sun",
+                        "author_id": "IrXVdecAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 114
+                }
+            }
+        },
+        {
+            "position": 45,
+            "title": "Fluorescence immunoassay system via enzyme-enabled in situ synthesis of fluorescent silicon nanoparticles",
+            "snippet": "The emergence of fluorescent nanomaterials with excellent performances has triggered the development of fluorescence analysis technique, which possesses several advantages in \u2026",
+            "publication_info": {
+                "summary": "J Sun, T Hu, C Chen, D Zhao, F Yang\u2026 - Analytical \u2026, 2016 - ACS Publications",
+                "authors": [
+                    {
+                        "name": "J Sun",
+                        "author_id": "IrXVdecAAAAJ"
+                    },
+                    {
+                        "name": "T Hu",
+                        "author_id": "vwhogHgAAAAJ"
+                    },
+                    {
+                        "name": "F Yang",
+                        "author_id": "qMVUxNYAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 111
                 }
             }
         },
         {
             "position": 19,
-            "title": "Expert consensus on tubeless video-assisted thoracoscopic surgery (Guangzhou)",
-            "snippet": "\u2026 Ethical Statement: The authors are accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately \u2026",
+            "title": "Influence of various levels of flaxseed gum addition on the water\u2010holding capacities of heat\u2010induced porcine myofibrillar protein",
+            "snippet": "\u2026 Jian Sun Authors are with College of Food Science and Technology, Nanjing Agricultural Univ., Nanjing, 210095, PR China. Authors are also with National Centre of Meat Quality and \u2026",
             "publication_info": {
-                "summary": "J He, J Liu, C Zhu, T Dai, K Cai, Z Zhang\u2026 - Journal of Thoracic \u2026, 2019 - pmc.ncbi.nlm.nih.gov"
+                "summary": "J Sun, X Li, X Xu, G Zhou - Journal of Food Science, 2011 - Wiley Online Library"
             },
             "inline_links": {
                 "cited_by": {
-                    "total": 40
+                    "total": 109
                 }
             }
         },
         {
-            "position": 13,
-            "title": "Octanoic acid\u2013rich enteral nutrition prevented lipopolysaccharide\u2010induced acute liver injury through c\u2010Jun N\u2010terminal kinase\u2013dependent autophagy",
-            "snippet": "\u2026 AUTHOR CONTRIBUTIONS Kaiming He and Chun Cao equally contributed to the conception and design of the research; Peng Du and Wei Chen contributed to the design of the \u2026",
+            "position": 86,
+            "title": "Soil and vegetation carbon turnover times from tropical to boreal forests",
+            "snippet": "Terrestrial ecosystems currently function as a net carbon (C) sink for atmospheric C dioxide ( CO 2 ), but whether this C sink can persist with global climate change is still uncertain. Such \u2026",
             "publication_info": {
-                "summary": "K He, C Cao, X Xu, Z Ye, X Ma\u2026 - Journal of Parenteral \u2026, 2022 - Wiley Online Library"
+                "summary": "J Wang, J Sun, J Xia, N He, M Li, S Niu - Functional Ecology, 2018 - Wiley Online Library",
+                "authors": [
+                    {
+                        "name": "J Wang",
+                        "author_id": "vSpyX8cAAAAJ"
+                    },
+                    {
+                        "name": "J Sun",
+                        "author_id": "ALVSZAYAAAAJ"
+                    },
+                    {
+                        "name": "J Xia",
+                        "author_id": "wjuyb5gAAAAJ"
+                    },
+                    {
+                        "name": "S Niu",
+                        "author_id": "f7PNK1QAAAAJ"
+                    }
+                ]
             },
             "inline_links": {
                 "cited_by": {
-                    "total": 13
+                    "total": 106
                 }
             }
         },
         {
-            "position": 8,
-            "title": "Research landscape and trends of human umbilical cord mesenchymal stem cell-derived exosomes",
-            "snippet": "\u2026 Analysis of author productivity revealed that eight of the top 10 most prolific researchers \u2026 The data that support the findings of this study are available from the corresponding author \u2026",
+            "position": 68,
+            "title": "Characteristics of photosynthesis and functions of the water\u2013water cycle in rice (Oryza sativa) leaves in response to potassium deficiency",
+            "snippet": "The mechanisms of photoprotection of photosynthesis and dissipation of excitation energy in rice leaves in response to potassium (K) deficiency were investigated. Net photosynthetic \u2026",
             "publication_info": {
-                "summary": "D Chen, Z Chen, J Yuan, G Chen, Y Chen, K He\u2026 - Stem cell research & \u2026, 2025 - Springer"
+                "summary": "XY Weng, CJ Zheng, HX Xu, JY Sun - Physiologia Plantarum, 2007 - Wiley Online Library"
             },
             "inline_links": {
                 "cited_by": {
-                    "total": 2
+                    "total": 104
+                }
+            }
+        },
+        {
+            "position": 64,
+            "title": "Pressure-stabilized high-energy-density alkaline-earth-metal pentazolate salts",
+            "snippet": "\u2026 The authors are thankful for the financial support from the MOST of China (Grant Nos. 2016YFA0300404 and 2015CB921202), the National Natural Science Foundation of China (Grant \u2026",
+            "publication_info": {
+                "summary": "\u2026, J Yuan, C Liu, H Gao, Q Wu, J Sun - The Journal of \u2026, 2019 - ACS Publications",
+                "authors": [
+                    {
+                        "name": "C Liu",
+                        "author_id": "6dLKKdwAAAAJ"
+                    },
+                    {
+                        "name": "H Gao",
+                        "author_id": "MDsVn3AAAAAJ"
+                    },
+                    {
+                        "name": "J Sun",
+                        "author_id": "nYzR4oAAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 102
+                }
+            }
+        },
+        {
+            "position": 72,
+            "title": "General anesthesia vs spinal anesthesia for patients undergoing total-hip arthroplasty: a meta-analysis",
+            "snippet": "\u2026 the meta-analysis, 2 authors (XP and JS) independently extracted the following data: author, publication year, \u2026 [7] If there was any missing data, we contact with authors for missing data. \u2026",
+            "publication_info": {
+                "summary": "X Pu, J Sun - Medicine, 2019 - journals.lww.com"
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 102
+                }
+            }
+        },
+        {
+            "position": 54,
+            "title": "Integrated Logic Gate for Fluorescence Turn-on Detection of Histidine and Cysteine Based on Ag/Au Bimetallic Nanoclusters\u2013Cu2+ Ensemble",
+            "snippet": "By means of employing 11-mercaptoundecanoic acid (11-MUA) as a reducing agent and protecting ligand, we present straightforward one-pot preparation of fluorescent Ag/Au \u2026",
+            "publication_info": {
+                "summary": "J Sun, F Yang, D Zhao, C Chen\u2026 - ACS applied materials & \u2026, 2015 - ACS Publications",
+                "authors": [
+                    {
+                        "name": "J Sun",
+                        "author_id": "IrXVdecAAAAJ"
+                    },
+                    {
+                        "name": "F Yang",
+                        "author_id": "qMVUxNYAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 101
+                }
+            }
+        },
+        {
+            "position": 74,
+            "title": "The recent development of CO2 fixation and conversion by ionic liquid",
+            "snippet": "\u2026 Jian Sun Jian Sun joined the research group of Professor Suojiang Zhang and began his research career as an Assistant Professor in IPE, CAS. His current research interests include \u2026",
+            "publication_info": {
+                "summary": "J Zhang, J Sun, X Zhang, Y Zhao\u2026 - \u2026 Gases: Science and \u2026, 2011 - Wiley Online Library",
+                "authors": [
+                    {
+                        "name": "J Sun",
+                        "author_id": "ALVSZAYAAAAJ"
+                    },
+                    {
+                        "name": "Y Zhao",
+                        "author_id": "sLwZKTQAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 97
+                }
+            }
+        },
+        {
+            "position": 37,
+            "title": "Complete Nucleotide Sequence of an IncI2 Plasmid Coharboring blaCTX-M-55 and mcr-1",
+            "snippet": "We report the complete nucleotide sequence of a plasmid, pA31-12, carrying bla CTX-M-55 and mcr-1 from a chicken Escherichia coli isolate. pA31-12 has an IncI2 replicon that \u2026",
+            "publication_info": {
+                "summary": "J Sun, XP Li, RS Yang, LX Fang, W Huo\u2026 - Antimicrobial agents \u2026, 2016 - journals.asm.org"
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 95
+                }
+            }
+        },
+        {
+            "position": 97,
+            "title": "Alkaline phosphatase assay based on the chromogenic interaction of diethanolamine with 4-aminophenol",
+            "snippet": "Diethanolamine (DEA) has been extensively utilized as an alkaline buffer in current assays of alkaline phosphatase (ALP) activity in the past decades. While playing the role of a buffer, \u2026",
+            "publication_info": {
+                "summary": "J Sun, J Zhao, X Bao, Q Wang, X Yang - Analytical Chemistry, 2018 - ACS Publications",
+                "authors": [
+                    {
+                        "name": "J Sun",
+                        "author_id": "IrXVdecAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 89
+                }
+            }
+        },
+        {
+            "position": 44,
+            "title": "Predicting wireless mmWave massive MIMO channel characteristics using machine learning algorithms",
+            "snippet": "\u2026 According to the massive MIMO and mmWave indoor channel measurement in [18], authors in [19] did the massive MIMO and mmWave channel parameter estimation. Authors in [20] \u2026",
+            "publication_info": {
+                "summary": "\u2026, Q Xu, Y Yang, G Goussetis, J Sun\u2026 - Wireless \u2026, 2018 - Wiley Online Library",
+                "authors": [
+                    {
+                        "name": "G Goussetis",
+                        "author_id": "HFZXlOMAAAAJ"
+                    },
+                    {
+                        "name": "J Sun",
+                        "author_id": "vhgZDWkAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 85
+                }
+            }
+        },
+        {
+            "position": 78,
+            "title": "Micro RNA\u2010137 promoter methylation in oral lichen planus and oral squamous cell carcinoma",
+            "snippet": "Oral lichen planus ( OLP ) is a common oral mucosal disease, which is generally considered a potentially malignant lesion. To identify efficiently prognostic biomarker, we investigated \u2026",
+            "publication_info": {
+                "summary": "J Dang, YQ Bian, JY Sun, F Chen\u2026 - Journal of Oral \u2026, 2013 - Wiley Online Library",
+                "authors": [
+                    {
+                        "name": "J Dang",
+                        "author_id": "wKaEsSQAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 85
+                }
+            }
+        },
+        {
+            "position": 94,
+            "title": "Inner filter effect-based sensor for horseradish peroxidase and its application to fluorescence immunoassay",
+            "snippet": "Being an important model peroxidase, horseradish peroxidase (HRP) has been thoroughly understood, and the detection of HRP is not only directly related to peroxidase-triggered \u2026",
+            "publication_info": {
+                "summary": "J Sun, J Zhao, L Wang, H Li, F Yang, X Yang - ACS sensors, 2018 - ACS Publications",
+                "authors": [
+                    {
+                        "name": "J Sun",
+                        "author_id": "IrXVdecAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 84
+                }
+            }
+        },
+        {
+            "position": 69,
+            "title": "An output-coding-based detection scheme against replay attacks in cyber-physical systems",
+            "snippet": "\u2026 In [15], the authors studied the detection method against deception attacks on multi-sensor remote state estimation. And then, a Gaussian-mixture-model-based detection mechanism \u2026",
+            "publication_info": {
+                "summary": "H Guo, ZH Pang, J Sun, J Li - IEEE Transactions on Circuits and \u2026, 2021 - ieeexplore.ieee.org",
+                "authors": [
+                    {
+                        "name": "J Sun",
+                        "author_id": "ALVSZAYAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 73
+                }
+            }
+        },
+        {
+            "position": 92,
+            "title": "Fluorometric and colorimetric dual-readout immunoassay based on an alkaline phosphatase-triggered reaction",
+            "snippet": "Alkaline phosphatase (ALP) usually acts as a signal transmitter in enzyme-linked immunosorbent assay (ELISA); therefore, developing an attractive ALP activity assay, especially using \u2026",
+            "publication_info": {
+                "summary": "J Zhao, S Wang, S Lu, G Liu, J Sun, X Yang - Analytical Chemistry, 2019 - ACS Publications",
+                "authors": [
+                    {
+                        "name": "S Wang",
+                        "author_id": "Qdz8weAAAAAJ"
+                    },
+                    {
+                        "name": "S Lu",
+                        "author_id": "WvYWtvkAAAAJ"
+                    },
+                    {
+                        "name": "J Sun",
+                        "author_id": "IrXVdecAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 72
+                }
+            }
+        },
+        {
+            "position": 61,
+            "title": "The association between human papillomavirus and bladder cancer: evidence from meta\u2010analysis and two\u2010sample mendelian randomization",
+            "snippet": "\u2026 Discrepancies about the inclusion or exclusion were resolved by consensus of the third author (LCQ), and the Endnote application (version X9) was used to remove the duplicates and \u2026",
+            "publication_info": {
+                "summary": "JX Sun, JZ Xu, CQ Liu, Y An, MY Xu\u2026 - Journal of medical \u2026, 2023 - Wiley Online Library"
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 68
+                }
+            }
+        },
+        {
+            "position": 26,
+            "title": "Comparative analysis of dental implant treatment outcomes following mandibular reconstruction with double\u2010barrel fibula bone grafting or vertical distraction \u2026",
+            "snippet": "Purpose The purpose of this study was twofold: (i) to compare vertical bone height ( VBH ) after tumor resection through grafting with either a double\u2010barrel fibula ( DBF ) technique or \u2026",
+            "publication_info": {
+                "summary": "F Wang, W Huang, C Zhang, J Sun\u2026 - Clinical oral implants \u2026, 2015 - Wiley Online Library",
+                "authors": [
+                    {
+                        "name": "F Wang",
+                        "author_id": "TBehLlgAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 66
+                }
+            }
+        },
+        {
+            "position": 48,
+            "title": "Patterns and prognostic value of lymph node dissection for resected perihilar cholangiocarcinoma",
+            "snippet": "\u2026 The Sun Yat-sen Memorial Hospital reviewed this study and declared it exempt because of a lack of protected health information contained in the databases used. And no consent was \u2026",
+            "publication_info": {
+                "summary": "K Mao, J Liu, J Sun, J Zhang, J Chen\u2026 - Journal of \u2026, 2016 - Wiley Online Library"
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 66
+                }
+            }
+        },
+        {
+            "position": 91,
+            "title": "Emergence of mobile tigecycline resistance mechanism in Escherichia coli strains from migratory birds in China",
+            "snippet": "Plasmid-mediated antimicrobial resistance has emerged as one of the principal global issues, posing significant threats to public health. Herein, we reported a mobile tigecycline \u2026",
+            "publication_info": {
+                "summary": "\u2026, BN Kreiswirth, YH Liu, L Chen, J Sun - Emerging microbes & \u2026, 2019 - Taylor & Francis",
+                "authors": [
+                    {
+                        "name": "L Chen",
+                        "author_id": "ODYYAvMAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 58
+                }
+            }
+        },
+        {
+            "position": 99,
+            "title": "Hepatitis B virus genotype B with G1896A and A1762T/G1764A mutations is associated with hepatitis B related acute\u2010on\u2010chronic liver failure",
+            "snippet": "The existence of statistical associations between hepatitis B\u2010related acute\u2010on\u2010chronic liver failure and both hepatitis B virus (HBV) genotype and mutations in the basal core promoter (\u2026",
+            "publication_info": {
+                "summary": "\u2026, M Xu, WGH Abbott, J Chen, J Sun\u2026 - Journal of medical \u2026, 2011 - Wiley Online Library"
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 57
+                }
+            }
+        },
+        {
+            "position": 65,
+            "title": "Autografts vs synthetics for cruciate ligament reconstruction: a systematic review and meta\u2010analysis",
+            "snippet": "\u2026 A review of the literature was performed by two authors (L Li and XM Cao) using PubMed, Cochrane Library, and EMBASE from inception through January 2018. Key search terms \u2026",
+            "publication_info": {
+                "summary": "J Sun, X Wei, L Li, X Cao, K Li, L Guo, J Lu\u2026 - Orthopaedic \u2026, 2020 - Wiley Online Library",
+                "authors": [
+                    {
+                        "name": "J Sun",
+                        "author_id": "ALVSZAYAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 48
+                }
+            }
+        },
+        {
+            "position": 71,
+            "title": "Gemox chemotherapy in combination with anti-PD1 antibody toripalimab and lenvatinib as first-line treatment for advanced intrahepatic cholangiocarcinoma: A phase \u2026",
+            "snippet": "4094 Background: The outcome of advanced intrahepatic cholangiocarcinoma (ICC) remains poor with current gemcitabine-based chemotherapy. This study is to evaluate the safety \u2026",
+            "publication_info": {
+                "summary": "Z Jian, J Fan, GM Shi, XY Huang, D Wu, GH Yang, Y Ji\u2026 - 2021 - ascopubs.org",
+                "authors": [
+                    {
+                        "name": "GM Shi",
+                        "author_id": "3H34J-wAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "cited_by": {
+                    "total": 36
                 }
             }
         }
