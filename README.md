@@ -2,7 +2,8 @@ from nltk import download
 
 # Information Retrieval Lab 1
 
-This project allows you to fetch articles for a given author and perform boolean retrieval queries on the retrieved documents. The results are stored in a CSV file.
+This project allows you to fetch articles for a given author and perform boolean retrieval queries on the retrieved 
+documents. The results are stored in a CSV file. The results are shown to the user via the TKinter GUI.
 
 ---
 
@@ -31,21 +32,17 @@ py -m spacy download 'en_core_web_sm'
 To run the code, use the command:
 
 ```bash
-py main.py fetch search [AUTHOR_NAME]
+py retrieval_system.py
 ```
 
-where [AUTHOR_NAME] is the name of the author you want to search for.
-
-The program will then prompt you to enter the boolean query to retrieve the documents that contain the terms in the query:
-
-```pycon
-Enter query:|
-```
+The program will then open a TKinter GUI, which will utilize text boxes to prompt the user to enter the author name 
+and the boolean query to retrieve the documents that contain the terms in that query.
 
 ## Output
 
 The output of the search is stored in a file called `results.csv`. This
 file contains the title, authors, year and the number of citations of the
 documents that matched the boolean query. At the end of the .csv file, the
-sum of all citations across all matching documents is given.
+sum of all citations across all matching documents is given. This is then displayed
+to the user via the TKinter GUI.
 

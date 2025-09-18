@@ -65,6 +65,19 @@ def preprocess(deduped_results: list) -> list:
 
     return processed_docs
 
+def preprocess_query(query: str) -> str:
+    nlp = spacy.load("en_core_web_sm")
+    doc = nlp(query)
+    processed_tokens = []
+    for token in doc:
+        if token.is_alpha:
+            lemma = token.lemma_.lower()
+            if lemma not in STOP_WORDS:
+                processed_tokens.append(lemma)
+            else:
+                processed_tokens.append(token.text.lower())  # keep stopwords in lowercase
+    return " ".join(processed_tokens)
+
 
 def get_year(summary: str, title: str) -> int:
 

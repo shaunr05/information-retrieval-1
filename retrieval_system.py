@@ -1,10 +1,8 @@
 import tkinter as tk
 from tkinter import ttk, messagebox
-import pandas as pd
 import ast
 from fetchAPI import *
 from result import *
-from utils.fileUtils import write_to_json
 from retrieval.preprocessor import *
 
 
@@ -13,7 +11,7 @@ def backend_search(author, query):
     deduped_results = deduplicate(results)
     processed_docs = preprocess(deduped_results)
     matrix, vocab, term_to_row, doc_to_col = build_incidence_matrix(processed_docs)
-    matching = retrieve_docs(query, processed_docs, matrix, term_to_row)
+    matching = retrieve_docs(preprocess_query(query), processed_docs, matrix, term_to_row)
     save_to_csv("results.csv", matching)
     return "results.csv"
 
@@ -32,9 +30,13 @@ def execute_search():
     author = author_entry.get().strip()
     query = query_entry.get().strip()
 
+    # Force author entry
     if not author:
         messagebox.showerror("Error", "Author name is required.")
         return
+    # Make query an acceptable format
+    if not query:
+        query = ""
 
     try:
         csv_path = backend_search(author, query)
@@ -50,7 +52,7 @@ def execute_search():
 
         # Insert new results
         for _, row in df.iterrows():
-            # Convert year and citations to integers if possible
+            # Convert year and citations to integers from floats
             try:
                 year = int(float(row.get("Year", 0))) if not pd.isna(row.get("Year")) else ""
             except:
@@ -81,7 +83,7 @@ def execute_search():
         messagebox.showerror("Error", f"Failed to execute search: {e}")
 
 
-# --- GUI Setup ---
+# GUI Setup
 root = tk.Tk()
 root.title("Publication Search")
 root.geometry("950x550")

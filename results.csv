@@ -1,3 +1,99 @@
 Title,Authors,Year,Citations
+Feature pyramid networks for object detection,"TY Lin, P Dollár, R Girshick, K He",2017,35008
+Spatial pyramid pooling in deep convolutional networks for visual recognition,"K He, X Zhang, S Ren, J Sun",2015,18360
+Aggregated residual transformations for deep neural networks,"R Girshick, P Dollár, Z Tu, K He",2017,15460
 Identity mappings in deep residual networks,"K He, X Zhang, S Ren, J Sun",2016,14294
-Total citations; 14294
+Principles of instructional design,"RM Gagne, WW Wager, KC Golas, JM Keller…",2005,14024
+Non-local neural networks,"R Girshick, A Gupta, K He",2018,13113
+Image super-resolution using deep convolutional networks,"C Dong, CC Loy, K He, X Tang",2015,11780
+Guided image filtering,"K He, J Sun, X Tang",2012,8889
+R-fcn: Object detection via region-based fully convolutional networks,"J Dai, Y Li, K He, J Sun",2016,8467
+Learning a deep convolutional network for image super-resolution,"C Dong, CC Loy, K He, X Tang",2014,7251
+UCI machine learning repository,D Newman,2007,6260
+Global prevalence and burden of depressive and anxiety disorders in 204 countries and territories in 2020 due to the COVID-19 pandemic,"JJ Frostad, N Fullman, JR Giles, AZ Giref, G Guo, J He",2021,5685
+Group normalization,"Y Wu, K He",2018,5301
+SOAPdenovo2: an empirically improved memory-efficient short-read de novo assembler,"R Luo, B Liu, G He",2012,5297
+High-performance bulk thermoelectrics with all-scale hierarchical architectures,"K Biswas, J He, ID Blum, CI Wu, TP Hogan",2012,5061
+The evolution of sex,"JM Smith, J Maynard-Smith",1978,4931
+"The B73 maize genome: complexity, diversity, and dynamics","D Kudrna, R He",2009,4821
+Control of valley polarization in monolayer MoS2 by optical helicity,"KF Mak, J Shan, TF Heinz",2012,4664
+Global burden of obesity in 2005 and projections to 2030,"K Reynolds, J He",2008,4648
+Experimental observation of the quantum anomalous Hall effect in a magnetic topological insulator,"J Jia, X Dai, SC Zhang",2013,4452
+Improved baselines with momentum contrastive learning,"X Chen, H Fan, R Girshick, K He",2020,4310
+Integrating technology into K-12 teaching and learning: Current knowledge gaps and recommendations for future research,"KF Hew, T Brush",2007,4215
+US renal data system 2016 annual data report: epidemiology of kidney disease in the United States,"YN Hall, Y Han, K He",2017,3918
+Tightly bound trions in monolayer MoS2,"KF Mak, C Lee, GH Lee, J Hone, TF Heinz",2013,3400
+Convolutional neural networks at constrained time cost,"K He, J Sun",2015,3247
+Mechanism and regulation of NLRP3 inflammasome activation,G Núñez,2016,2928
+Global mapping of the yeast genetic interaction network,"J Haynes, S Hussein",2004,2604
+"Preliminary estimation of the basic reproduction number of novel coronavirus (2019-nCoV) in China, from 2019 to 2020: A data-driven analysis in the early …","G Yang, W Wang, Y Lou, D Gao, L Yang, D He",2020,2483
+Trends in China's anthropogenic emissions since 2010 as the consequence of clean air actions,"Y Zhang, H Zhao, Y Zheng",2018,2429
+Asian emissions in 2006 for the NASA INTEX-B mission,GR Carmichael,2009,2351
+Structure and ligand of a histone acetyltransferase bromodomain,AK Aggarwal,1999,2294
+Exploiting unintended feature leakage in collaborative learning,"L Melis, C Song, E De Cristofaro",2019,2187
+Major causes of death among men and women in China,"J He, K Reynolds",2005,2029
+"Pierre Menard, author of the Quixote",JL Borges,1964,1646
+Predicting intrinsic disorder in proteins: an overview,"Y Liu, B Xue, VN Uversky, AK Dunker",2009,551
+COVID-19 in persons with haematological cancers,"W He, L Chen, L Chen, G Yuan, Y Fang, W Chen, D Wu…",2020,529
+Minority report,"PK Dick, J Tiptree",2002,517
+Name disambiguation in author citations using a k-way spectral clustering method,"H Zha, CL Giles",2005,400
+"… , misdiagnoses, missed diagnoses, and other interpretive challenges in fish histopathology studies: a guide for investigators, authors, reviewers, and readers",HE Segner,2015,260
+Author identification: Using text sampling to handle the class imbalance problem,E Stamatatos,2008,257
+Clinical characteristics and outcomes of COVID-19–infected cancer patients: a systematic review and meta-analysis,"H Zhang, T He",2021,241
+Discovering author impact: A PageRank perspective,"E Yan, Y Ding",2011,231
+Author identification on the large scale,"D Madigan, A Genkin, DD Lewis",2005,190
+The intrinsic thermal conductivity of SnSe,"PC Wei, S Bhattacharya, J He, S Neeleshwar, R Podila",2016,180
+A catalogue of texts and authors,WG Lambert,1962,180
+Mining a web citation database for author co-citation analysis,"Y He, SC Hui",2002,155
+Citation recommendation without author supervision,"Q He, D Kifer, J Pei, P Mitra, CL Giles",2011,151
+Who was the author? An introduction to stylometry,J Kardos,2003,112
+Appropriate similarity measures for author co‐citation analysis,"NJ Van Eck, L Waltman",2008,98
+"Stereospecific CO2 Copolymers from 3,5-Dioxaepoxides: Crystallization and Functionallization","Y Liu, M Wang, WM Ren, KK He, YC Xu, J Liu…",2014,97
+"… be likened to a review article, only the author, not being limited by the 50-page upper limit on reviews, was able to present a more complete summary of the work he …",HJ NOROWITZ,1957,82
+Bayesian multinomial logistic regression for author identification,"D Madigan, A Genkin, DD Lewis",2005,79
+Marko Marulic–The Author of the Term «Psychology»,K Krstic,1964,78
+Everyone's an Author,BJ Moss,2013,71
+Editorial role in author-referee disagreements,AM Colman,1979,67
+Unsupervised author disambiguation using Dempster–Shafer theory,"H Wu, J He",2014,62
+Predicting co-author relationship in medical co-authorship networks,"Q Yu, C Long",2014,57
+Mining patterns of author orders in scientific publications,"B He, Y Ding, E Yan",2012,53
+Charles Darwin as a prospective geological author,S Herbert,1991,52
+The author as receiver,K Silverman,2001,51
+Authors of the Popol Wuj,RW Van Akkeren,2003,40
+Author Biography,G Chesi,2011,36
+Author Correction: Recognition of RNA N6-methyladenosine by IGF2BP proteins enhances mRNA stability and translation.,"KD Greis, C He",2018,35
+… on the NDA-funded'Ages and Stages' proj-ect since 2009 and co-author of a paper in Ageing and Society (2014) about that project. He was Principal Investigator of …,"P Music, R Woodstock, M Scenes",2015,34
+Author Correction: A molecular atlas of cell types and zonation in the brain vasculature,M Vanlandewijck,2018,27
+AUTHOR COPY ONLY,"W He, X Chen",2014,24
+Author-conference topic-connection model for academic network search,X Tu,2012,23
+Exploiting temporal authors interests via temporal-author-topic modeling,"A Daud, J Li, F Muhammad",2009,23
+"Francis Kirkman, Bookseller and Author","RC Bald, FK Jun",1943,21
+The author of the Satyricon,KFC Rose,1961,20
+Applicability of selected probability distributions to the number of authors per article in theoretical population genetics,"S Kumar, R Rousseau",1998,20
+Methylprednisolone as adjunct to endovascular thrombectomy for large-vessel occlusion stroke: the MARVEL randomized clinical trial,"…, MARVEL Trial Authors for the MARVEL Investigators",2024,19
+"… , and fifth authors are Professor, Graduate Research Assistants, and Associate Professor, respectively, Department of Botany and Plant Pathology; third author …",RE Ford,1972,18
+Medical expenses of urban Chinese patients with stomach cancer during 2002–2011: a hospital-based multicenter retrospective study,"…, listed authors are on behalf of the Health Economic …",2018,18
+Postmodernism and the Birth of the Author in Philip K. Dick's Valis,C Palmer,1991,17
+Research on simultaneous detection of SSC and FI of blueberry based on hyperspectral imaging combined MS-SPA,"S Qiao, Y Tian, W Gu, K He, P Yao, S Song…",2019,15
+Author Correction: The challenge of mapping the human connectome based on diffusion tractography,"DQ Chen, Y Feng, Y Wu",2019,15
+"… , K. Vela Velupillai (Ed.), Blackwell Publishing, Malden, Massachusetts, Oxford, United Kingdom, and Victoria, Australia (2005), 324+ viii pp., author index …",R Koppl,2008,15
+Author Correction: Global diversity and biogeography of bacterial communities in wastewater treatment plants,"Y Yang, Y Deng, Q Tu, A Wang",2019,15
+Author-ity,A Assis,2011,15
+Author Correction: Expanded encyclopaedias of DNA elements in the human and mouse genomes,"HE Pratt, CB Epstein",2022,14
+"Lazar K. Lazarević, the author who first described the straight leg raising test",S Drača,2015,14
+Author Correction: Integrative molecular and clinical modeling of clinical outcomes to PD1 blockade in patients with metastatic melanoma,N Vokes,2020,14
+Unsupervised decomposition of a multi-author document based on naive-bayesian model,"K Aldebei, X He, J Yang",2015,12
+Unsupervised multi-author document decomposition based on hidden markov model,"K Aldebei, X He, W Jia, J Yang",2016,10
+One school's yearlong collaboration with a children's book author,DL DeFauw,2018,7
+Istoriya Rusov and its Author,A Yakovliv,1953,7
+The Author of the Idea and the First Draft of the International Bill of Human Rights,"P Rabinovych, V Osoba",2013,4
+Reply by the author to EA Fletcher,S Ihara,1979,4
+"Lost in China, Found in Tibet: How Wonch'uk Became the Author of the Great Chinese Commentary",J Powers,1992,4
+AUTHOR'.,DECD Tape,2025,2
+Author Correction: Structural and functional evidence that GPR30 is not a direct estrogen receptor,"X He, HE Xu",2025,1
+"Regarding the True Author of"" Yurovsky Notes""","VV Petrov, MA Marusenko",2017,1
+Over‐the‐scope clips in patients at high risk of rebleeding following upper gastrointestinal tract bleeding—The magic bullet for everyone? Authors' reply.,"K Song, D Yang, H Xu, K He…",2024,0
+"… , I'll take the PrEP, but when he is not, I will not take PrEP"": Key Influences on PrEP Use Decisions among Women Attending Family Planning Clinics in Kenya Authors",K Beima-Sofie,2025,0
+… Role of Learning Engagement in the Relationship between Master's Students' Learning Motivation and Scientific Research and Innovation Capability Author …,"D Tang, H He, K Hu",2025,0
+Author Correction: Spatial immune scoring system predicts hepatocellular carcinoma recurrence,"G Jia, D Goh",2025,0
+Total citations; 243152

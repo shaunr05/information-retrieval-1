@@ -45,6 +45,8 @@ def evaluate_query(query, matrix, term_to_row, num_docs):
 
 
 def retrieve_docs(query, docs, matrix, term_to_row):
+    if query == "":
+        return docs
     num_docs = len(docs)
     result_vec = evaluate_query(query, matrix, term_to_row, num_docs)
     matching_indices = [i for i, val in enumerate(result_vec) if val == 1]
@@ -71,31 +73,3 @@ def save_to_csv(filename, papers):
             })
 
         f.write(f"Total citations; {total_citations}\n")
-
-# # example data
-# docs = [
-#     {"id": 0, "title": "Deep Learning for NLP",
-#      "authors": "Author A", "year": "2018", "citations": 150,
-#      "terms": {"deep", "learn", "nlp"}},
-#
-#     {"id": 1, "title": "Convolutional Neural Networks",
-#      "authors": "Author B", "year": "2015", "citations": 200,
-#      "terms": {"convolutional", "neural", "network"}},
-#
-#     {"id": 2, "title": "Probabilistic Models in Machine Learning",
-#      "authors": "Author C", "year": "2012", "citations": 120,
-#      "terms": {"probabilistic", "model", "machine", "learn"}},
-# ]
-#
-# # here is how I arranged it to work
-#
-# # it builds the incidence matrix
-# matrix, vocab, term_to_row, doc_to_col = build_incidence_matrix(docs)
-#
-# # then runs the query which also supports parentheses
-# query = "deep AND (nlp OR probabilistic)"
-# matching = retrieve_docs(query, docs, matrix, term_to_row)
-#
-# # saves results to a csv we can use for the frontend (we can remove the print later)
-# save_to_csv("results.csv", matching)
-# print(f"Saved {len(matching)} matching docs to results.csv")
