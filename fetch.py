@@ -1,4 +1,8 @@
+import json
+import os
+
 import click
+import serpapi
 
 from fetchAPI import *
 from result import *
@@ -19,9 +23,7 @@ fetch: click.Group
 @click.pass_context
 def search(ctx: click.Context, author: str, debug):
 
-    client: serpapi.Client = ctx.obj['client']
-
-    results = get_search_results(client, author)
+    results = get_search_results(author)
     deduped_results = deduplicate(results)
     processed_docs = preprocess(deduped_results)
     ctx.obj['processed_docs'] = processed_docs
@@ -41,16 +43,4 @@ def search(ctx: click.Context, author: str, debug):
     matching = retrieve_docs(query, processed_docs, matrix, term_to_row)
 
     save_to_csv("results.csv", matching)
-    print(f"Saved {len(matching)} matching docs to results.csv")
-
-
-
-
-
-# @fetch.command()
-# @click.option('--query', prompt='Enter query')
-# @click.pass_context
-# def query(ctx: click.Context, query: str):
-#     ctx.ensure_object(dict)
-#
-#     processed_docs = ctx.obj.get('')
+    click.echo(f"Saved {len(matching)} matching docs to results.csv")
