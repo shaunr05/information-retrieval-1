@@ -7,6 +7,7 @@ from result import *
 from utils.fileUtils import write_to_json
 from retrieval.preprocessor import *
 
+
 def backend_search(author, query):
     results = get_search_results(author)
     deduped_results = deduplicate(results)
@@ -16,13 +17,16 @@ def backend_search(author, query):
     save_to_csv("results.csv", matching)
     return "results.csv"
 
+
 def parse_authors(authors_str):
     """Convert authors column string into a clean 'Name1, Name2' format."""
     try:
-        authors_list = ast.literal_eval(authors_str)
-        return ", ".join(a["name"] for a in authors_list if "name" in a)
+        cleaned = str(authors_str).strip().strip('"').strip("'")
+        authors_list = ast.literal_eval(cleaned)
+        return ", ".join(a["name"] for a in authors_list if isinstance(a, dict) and "name" in a)
     except Exception:
-        return authors_str
+        return str(authors_str)
+
 
 def execute_search():
     author = author_entry.get().strip()
@@ -76,6 +80,7 @@ def execute_search():
     except Exception as e:
         messagebox.showerror("Error", f"Failed to execute search: {e}")
 
+
 # --- GUI Setup ---
 root = tk.Tk()
 root.title("Publication Search")
@@ -106,9 +111,9 @@ result_tree.heading("Authors", text="Authors")
 result_tree.heading("Year", text="Year")
 result_tree.heading("Citations", text="Citations")
 
-result_tree.column("Title", width=400, anchor="w")      # wide
-result_tree.column("Authors", width=250, anchor="w")    # medium
-result_tree.column("Year", width=60, anchor="center")   # narrow for 4-digit year
+result_tree.column("Title", width=400, anchor="w")  # wide
+result_tree.column("Authors", width=250, anchor="w")  # medium
+result_tree.column("Year", width=60, anchor="center")  # narrow for 4-digit year
 result_tree.column("Citations", width=80, anchor="center")  # small
 
 result_tree.pack(fill="both", expand=True, padx=10, pady=10)
